@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/.well-known/atproto-did"
+    [headers.values]
+      Content-Type = "text/plain"
