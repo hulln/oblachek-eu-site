@@ -1,10 +1,73 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>oblachek.eu</title>
-  </head>
-  <body>
-    <p>Hello from oblachek.eu 👋</p>
-  </body>
+<head>
+  <title>oblachek.eu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="status" id="status">Loading...</div>
+  
+  <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">
+    <span id="theme-icon">🌙</span>
+  </button>
+
+  <div class="container">
+    <header>
+      <h1 class="title">☁️ oblachek.eu</h1>
+      <p class="subtitle">A small corner of the internet — personal, minimal, occasionally interactive.</p>
+    </header>
+
+    <div class="grid">
+      <section class="card">
+        <h2>About</h2>
+        <p>Hi there! This is my little space on the web. I build things, share thoughts, and experiment with ideas that may or may not work.</p>
+        <p>Press <span class="mono">B</span> for bubbles, <span class="mono">R</span> for rain, <span class="mono">F</span> for a random fact.</p>
+  <!-- chips removed for minimalism -->
+      </section>
+
+
+
+      <section class="card">
+        <h2>Currently</h2>
+        <ul>
+          <li><strong>Reading:</strong> <span class="mono">RFC 1149</span> (IP over Avian Carriers)</li>
+          <li><strong>Building:</strong> small tools and useful interfaces</li>
+          <li><strong>Learning:</strong> better ways to write simple, effective code</li>
+          <li><strong>Listening:</strong> <span id="spotify-status">Loading...</span></li>
+        </ul>
+        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 1rem;">
+          <button class="btn btn-secondary" onclick="refreshCurrently()">Refresh</button>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>Random Fact</h2>
+        <p id="random-fact">Loading interesting fact...</p>
+        <button class="btn btn-secondary" onclick="newRandomFact()">Another fact</button>
+      </section>
+
+      <section class="card">
+        <h2>Links</h2>
+        <ul>
+          <li><a href="https://bsky.app/profile/oblachek.eu" target="_blank" rel="me">Bluesky</a></li>
+          <li><a href="https://hulln.github.io/" target="_blank" rel="noopener">Personal site</a></li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <h2>Fun</h2>
+        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+          <button class="btn" onclick="createBubbles()">Make bubbles</button>
+          <button class="btn" onclick="makeItRain()">Make it rain</button>
+        </div>
+      </section>
+    </div>
+
+    <footer>
+      <p style="margin-top: 2rem;">
+        © <span id="year"></span> oblachek.eu
+      </p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
 </html>
