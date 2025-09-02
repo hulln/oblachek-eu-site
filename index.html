@@ -1,73 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
+  <meta charset="utf-8">
   <title>oblachek.eu</title>
-  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      max-width: 700px;
+      margin: 2rem auto;
+      font: 16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial, sans-serif;
+      color: #222;
+      background: #fdfdfd;
+      padding: 0 1rem;
+    }
+    h1 {
+      margin-bottom: 0.2em;
+      font-size: 1.8rem;
+    }
+    p {
+      margin: 0.6em 0;
+    }
+    nav {
+      margin-top: 1.5em;
+    }
+    a {
+      color: #0645ad;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+      margin-right: 0.5em;
+    }
+    footer {
+      margin-top: 2em;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
 </head>
 <body>
-  <div class="status" id="status">Loading...</div>
-  
-  <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">
-    <span id="theme-icon">🌙</span>
-  </button>
+  <h1>oblachek.eu</h1>
+  <p><em>A tiny cloud on the internet.</em></p>
 
-  <div class="container">
-    <header>
-      <h1 class="title">☁️ oblachek.eu</h1>
-      <p class="subtitle">A small corner of the internet — personal, minimal, occasionally interactive.</p>
-    </header>
+  <p>
+    Based in Slovenia. Studying digital linguistics; interested in language technologies and technology in general. Coffee helps. Remote-first. I care about transparency, open access, and accessibility of information.
+  </p>
 
-    <div class="grid">
-      <section class="card">
-        <h2>About</h2>
-        <p>Hi there! This is my little space on the web. I build things, share thoughts, and experiment with ideas that may or may not work.</p>
-        <p>Press <span class="mono">B</span> for bubbles, <span class="mono">R</span> for rain, <span class="mono">F</span> for a random fact.</p>
-  <!-- chips removed for minimalism -->
-      </section>
+  <nav>
+    <a href="https://bsky.app/profile/oblachek.eu">Bluesky</a> |
+    <a href="https://hulln.github.io">Personal page</a>
+  </nav>
 
+  <footer>
+    More content and better formatting coming… soon.<br>
+    © <span id="year"></span> oblachek.eu
+  </footer>
 
-
-      <section class="card">
-        <h2>Currently</h2>
-        <ul>
-          <li><strong>Reading:</strong> <span class="mono">RFC 1149</span> (IP over Avian Carriers)</li>
-          <li><strong>Building:</strong> small tools and useful interfaces</li>
-          <li><strong>Learning:</strong> better ways to write simple, effective code</li>
-          <li><strong>Listening:</strong> <span id="spotify-status">Loading...</span></li>
-        </ul>
-        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 1rem;">
-          <button class="btn btn-secondary" onclick="refreshCurrently()">Refresh</button>
-        </div>
-      </section>
-
-      <section class="card">
-        <h2>Random Fact</h2>
-        <p id="random-fact">Loading interesting fact...</p>
-        <button class="btn btn-secondary" onclick="newRandomFact()">Another fact</button>
-      </section>
-
-      <section class="card">
-        <h2>Links</h2>
-        <ul>
-          <li><a href="https://bsky.app/profile/oblachek.eu" target="_blank" rel="me">Bluesky</a></li>
-          <li><a href="https://hulln.github.io/" target="_blank" rel="noopener">Personal site</a></li>
-        </ul>
-      </section>
-
-      <section class="card">
-        <h2>Fun</h2>
-        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
-          <button class="btn" onclick="createBubbles()">Make bubbles</button>
-          <button class="btn" onclick="makeItRain()">Make it rain</button>
-        </div>
-      </section>
-    </div>
-
-    <footer>
-      <p style="margin-top: 2rem;">
-        © <span id="year"></span> oblachek.eu
-      </p>
-    </footer>
-  </div>
-
-  <script src="script.js"></script>
+  <script>
+    // Set current year in footer
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
 </body>
 </html>
