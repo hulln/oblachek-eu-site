@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="sl">
 <head>
   <meta charset="utf-8" />
   <title>oblachek.eu</title>
@@ -52,33 +52,33 @@
     <div class="domain">
       <span>oblachek.eu</span>
       <div class="header-controls">
-        <a href="sl/" id="lang-toggle" aria-label="Switch to Slovenian">SL</a>
-        <button id="theme-toggle" aria-label="Toggle dark mode" aria-pressed="false">☾</button>
+        <a href="../" id="lang-toggle" aria-label="Preklopi na angleščino">EN</a>
+        <button id="theme-toggle" aria-label="Preklopi temni način" aria-pressed="false">☾</button>
       </div>
     </div>
-    <p class="tagline"><em>A tiny cloud on the internet.</em></p>
+  <p class="tagline"><em>Majhen oblaček na internetu.</em></p>
   </header>
 
   <main class="content">
-    <p class="location">Slovenia, Europe</p>
+    <p class="location">Slovenija, Evropa</p>
     
     <div class="work">
-      <p>I (try to) work with language tech and digital linguistics. Remote work, coffee, curiosity.</p>
+      <p>Ukvarjam se z jezikovnimi tehnologijami in digitalnim jezikoslovjem (oz. vsaj poskušam). Delo na daljavo, kava, radovednost.</p>
     </div>
 
     <p class="values">
-      <strong>Values:</strong> transparency, inclusivity, accessibility, open access, student rights, quality in higher education. Etc.
+      <strong>Vrednote:</strong> transparentnost, inkluzivnost, dostopnost, odprt dostop, študentske pravice, kakovost v visokem šolstvu. Itd.
     </p>
 
-    <p>Always up for new contacts and interesting conversations. No, really. I like meeting new people, especially online.</p>
+    <p>Vedno za nove stike in zanimive pogovore. Ne, res. Z veseljem spoznavam nove ljudi, zlasti na spletu.</p>
   </main>
 
   <footer class="footer">
     <span>© <span id="year"></span></span>
     <span class="footer-dot">&middot;</span>
-    <a href="https://bsky.app/profile/oblachek.eu">Bluesky</a>
+  <a href="https://bsky.app/profile/oblachek.eu">Bluesky</a>
     <span class="footer-dot">&middot;</span>
-    <a href="https://hulln.github.io">Personal</a>
+  <a href="https://hulln.github.io">Osebno</a>
   </footer>
 
   <script>
@@ -92,7 +92,7 @@
       body.classList.add('dark');
       themeToggle.textContent = '☀';
       themeToggle.setAttribute('aria-pressed', 'true');
-      themeToggle.setAttribute('aria-label', 'Toggle light mode');
+      themeToggle.setAttribute('aria-label', 'Preklopi svetli način');
     }
 
     themeToggle.addEventListener('click', () => {
@@ -100,7 +100,7 @@
       const isDark = body.classList.contains('dark');
       themeToggle.textContent = isDark ? '☀' : '☾';
       themeToggle.setAttribute('aria-pressed', isDark ? 'true' : 'false');
-      themeToggle.setAttribute('aria-label', isDark ? 'Toggle light mode' : 'Toggle dark mode');
+      themeToggle.setAttribute('aria-label', isDark ? 'Preklopi svetli način' : 'Preklopi temni način');
       localStorage.setItem('theme', isDark ? 'dark' : 'light');
     });
   </script>
