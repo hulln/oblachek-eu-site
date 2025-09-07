@@ -1,108 +1,327 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <title>oblachek.eu</title>
-  <meta name="robots" content="noindex, nofollow">
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cellipse cx='16' cy='18' rx='12' ry='7' fill='%23bbb'/%3E%3Cellipse cx='12' cy='14' rx='7' ry='7' fill='%23e0e0e0'/%3E%3Cellipse cx='22' cy='15' rx='6' ry='6' fill='%23f5f5f5'/%3E%3C/svg%3E" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Nunito:wght@400;600&display=swap" rel="stylesheet">
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      font-family: 'Inter', 'Nunito', 'Segoe UI', 'Arial', sans-serif;
-      font-size: 15px; line-height: 1.7; background: #fafafa; color: #333;
-      padding: 4rem 2rem 2rem; max-width: 580px; margin: 0 auto; transition: all 0.2s ease;
-    }
-    .header { margin-bottom: 2.5rem; position: relative; }
-    .domain { font-size: 22px; font-weight: 500; margin-bottom: 0.3rem; display: flex; align-items: center; justify-content: space-between; }
-    .tagline { color: #666; font-size: 13px; }
-    .content { margin-bottom: 3rem; font-size: 14px; color: #555; }
-    .content p { margin-bottom: 1.2rem; }
-    .location { color: #777; font-size: 13px; }
-    .work { margin: 1.5rem 0; }
-    .values { margin: 1rem 0; font-size: 13px; color: #666; }
-    .footer { font-size: 13px; color: #999; display: flex; gap: 0.5rem; align-items: center; justify-content: center; text-align: center; }
-    .footer-dot { font-size: 18px; color: #bbb; margin: 0 0.2em; user-select: none; }
-    .footer a { color: #777; text-decoration: none; transition: color 0.2s ease; }
-    .footer a:hover { color: #333; }
-    .header-controls { display: flex; gap: 8px; align-items: center; }
-    #theme-toggle, #lang-toggle { border: none; background: none; cursor: pointer; font-size: 16px; color: inherit; padding: 4px; opacity: 0.7; transition: opacity 0.2s ease; }
-    #theme-toggle:hover, #lang-toggle:hover { opacity: 1; }
-    #lang-toggle { font-size: 13px; font-weight: 500; text-decoration: none; }
-    #lang-toggle:focus { outline: 2px solid #007acc; outline-offset: 2px; }
-    body.dark { background: #111; color: #ddd; }
-    body.dark .tagline { color: #999; }
-    body.dark .content { color: #bbb; }
-    body.dark .location { color: #888; }
-    body.dark .values { color: #aaa; }
-    body.dark .footer { color: #777; }
-    body.dark .footer a { color: #999; }
-    body.dark .footer a:hover { color: #ddd; }
-    @media (max-width: 480px) {
-      body { padding: 3rem 1.5rem 2rem; }
-      .domain { font-size: 20px; }
-      .footer { flex-direction: column; align-items: flex-start; gap: 0.8rem; }
-    }
-    ::selection { background: #333; color: #fff; }
-    body.dark ::selection { background: #fff; color: #111; }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>oblachek</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #B8D4F0 0%, #D6E8F5 100%);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .container {
+            text-align: center;
+            z-index: 10;
+        }
+
+        .title {
+            font-size: 1.2rem;
+            color: #2D3748;
+            margin-bottom: 4rem;
+            font-weight: 300;
+            letter-spacing: 0.5px;
+        }
+
+        .cloud {
+            width: 120px;
+            height: 50px;
+            background: #fff;
+            border-radius: 50px;
+            position: relative;
+            margin: 0 auto 2rem auto;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+            animation: float 4s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-8px); }
+        }
+
+        .cloud:before,
+        .cloud:after {
+            content: '';
+            position: absolute;
+            background: #fff;
+            border-radius: 50%;
+        }
+
+        .cloud:before {
+            width: 60px;
+            height: 60px;
+            top: -30px;
+            left: 15px;
+        }
+
+        .cloud:after {
+            width: 45px;
+            height: 45px;
+            top: -25px;
+            right: 20px;
+        }
+
+        .cloud:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 35px rgba(0, 0, 0, 0.15);
+            animation-play-state: paused;
+        }
+
+        .cloud.raining {
+            animation: bounce 0.6s ease-in-out, float 4s ease-in-out infinite;
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        .rainbow {
+            position: fixed;
+            width: 100vw;
+            height: 100vh;
+            top: 0;
+            left: 0;
+            opacity: 0;
+            pointer-events: none;
+            z-index: 5;
+            background: linear-gradient(45deg, 
+                rgba(255, 0, 0, 0.15) 0%, 
+                rgba(255, 127, 0, 0.15) 14.28%, 
+                rgba(255, 255, 0, 0.15) 28.56%, 
+                rgba(0, 255, 0, 0.15) 42.84%, 
+                rgba(0, 0, 255, 0.15) 57.12%, 
+                rgba(75, 0, 130, 0.15) 71.4%, 
+                rgba(148, 0, 211, 0.15) 85.68%,
+                rgba(255, 0, 0, 0.15) 100%);
+        }
+
+        .rainbow::before {
+            display: none;
+        }
+
+        .rainbow.show {
+            animation: rainbow-appear 4s ease-in-out;
+        }
+
+        @keyframes rainbow-appear {
+            0% { opacity: 0; }
+            25% { opacity: 0.6; }
+            75% { opacity: 0.6; }
+            100% { opacity: 0; }
+        }
+
+        .rain-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        .raindrop {
+            position: absolute;
+            width: 3px;
+            background: linear-gradient(to bottom, #1E3A8A, #1E40AF);
+            border-radius: 0 0 3px 3px;
+            opacity: 0;
+            animation: fall linear;
+            box-shadow: 0 0 4px rgba(30, 58, 138, 0.5);
+        }
+
+        @keyframes fall {
+            0% {
+                opacity: 0.9;
+                transform: translateY(-100vh);
+            }
+            100% {
+                opacity: 0;
+                transform: translateY(100vh);
+            }
+        }
+
+        .instruction {
+            font-size: 0.9rem;
+            color: #4A5568;
+            margin-top: 1rem;
+            opacity: 0.9;
+            font-weight: 300;
+        }
+
+        .personal-info {
+            position: absolute;
+            bottom: 2rem;
+            left: 50%;
+            transform: translateX(-50%);
+            text-align: center;
+            color: #4A5568;
+            font-size: 0.7rem;
+            opacity: 0.7;
+            font-weight: 300;
+            line-height: 1.4;
+            max-width: 400px;
+            padding: 0 1rem;
+        }
+
+        .personal-info a {
+            color: #2D3748;
+            text-decoration: none;
+            transition: opacity 0.2s ease;
+        }
+
+        .personal-info a:hover {
+            opacity: 0.8;
+        }
+
+        .cloud-shadow {
+            width: 100px;
+            height: 20px;
+            background: rgba(0, 0, 0, 0.1);
+            border-radius: 50%;
+            margin: 0 auto;
+            filter: blur(8px);
+            transform: translateY(10px);
+            animation: shadow-float 4s ease-in-out infinite;
+        }
+
+        @keyframes shadow-float {
+            0%, 100% { transform: translateY(10px) scale(1); }
+            50% { transform: translateY(18px) scale(0.9); }
+        }
+
+        @media (max-width: 480px) {
+            .title {
+                font-size: 1rem;
+            }
+            
+            .cloud {
+                width: 96px;
+                height: 40px;
+            }
+            
+            .cloud:before {
+                width: 48px;
+                height: 48px;
+                top: -24px;
+                left: 12px;
+            }
+            
+            .cloud:after {
+                width: 36px;
+                height: 36px;
+                top: -20px;
+                right: 16px;
+            }
+
+            .personal-info {
+                bottom: 1rem;
+                font-size: 0.65rem;
+                padding: 0 1.5rem;
+            }
+        }
+    </style>
 </head>
 <body>
-  <header class="header">
-    <div class="domain">
-      <span>oblachek.eu</span>
-      <div class="header-controls">
-        <a href="sl/" id="lang-toggle" aria-label="Switch to Slovenian">SL</a>
-        <button id="theme-toggle" aria-label="Toggle dark mode" aria-pressed="false">☾</button>
-      </div>
-    </div>
-    <p class="tagline"><em>A tiny cloud on the internet.</em></p>
-  </header>
-
-  <main class="content">
-    <p class="location">Slovenia, Europe</p>
-    
-    <div class="work">
-      <p>I (try to) work with language tech and digital linguistics. Remote work, coffee, curiosity.</p>
+    <div class="container">
+        <h1 class="title">a tiny cloud on the internet</h1>
+        
+        <div class="cloud" id="cloud"></div>
+        <div class="cloud-shadow"></div>
+        
+        <p class="instruction">press me to make me cry</p>
     </div>
 
-    <p class="values">
-      <strong>Values:</strong> transparency, inclusivity, accessibility, open access, student rights, quality in higher education. Etc.
-    </p>
+    <div class="personal-info">
+        <p>Slovenia, Europe • <a href="https://bsky.app/profile/oblachek.eu">Bluesky</a> • <a href="https://hulln.github.io">Personal</a>
+    </div>
 
-    <p>Always up for new contacts and interesting conversations. No, really. I like meeting new people, especially online.</p>
-  </main>
+    <div class="rainbow" id="rainbow"></div>
+    <div class="rain-container" id="rainContainer"></div>
 
-  <footer class="footer">
-    <span>© <span id="year"></span></span>
-    <span class="footer-dot">&middot;</span>
-    <a href="https://bsky.app/profile/oblachek.eu">Bluesky</a>
-    <span class="footer-dot">&middot;</span>
-    <a href="https://hulln.github.io">Personal</a>
-  </footer>
+    <script>
+        const cloud = document.getElementById('cloud');
+        const rainContainer = document.getElementById('rainContainer');
+        const rainbow = document.getElementById('rainbow');
+        let isRaining = false;
+        let rainInterval;
 
-  <script>
-    document.getElementById('year').textContent = new Date().getFullYear();
+        function createRaindrop() {
+            const raindrop = document.createElement('div');
+            raindrop.className = 'raindrop';
+            
+            // Random position across the screen width
+            const leftPosition = Math.random() * 100;
+            raindrop.style.left = leftPosition + '%';
+            
+            // Random height for variety
+            const height = Math.random() * 30 + 15;
+            raindrop.style.height = height + 'px';
+            
+            // Random duration for natural effect
+            const duration = Math.random() * 1 + 0.5;
+            raindrop.style.animationDuration = duration + 's';
+            
+            rainContainer.appendChild(raindrop);
+            
+            // Remove raindrop after animation
+            setTimeout(() => {
+                if (raindrop.parentNode) {
+                    raindrop.parentNode.removeChild(raindrop);
+                }
+            }, duration * 1000);
+        }
 
-    const themeToggle = document.getElementById('theme-toggle');
-    const body = document.body;
-    const savedTheme = localStorage.getItem('theme') || 'light';
+        function startRain() {
+            if (isRaining) return;
+            
+            isRaining = true;
+            cloud.classList.add('raining');
+            
+            // Create multiple raindrops
+            rainInterval = setInterval(() => {
+                for (let i = 0; i < 3; i++) {
+                    setTimeout(() => createRaindrop(), i * 50);
+                }
+            }, 100);
+            
+            // Stop raining after 3 seconds
+            setTimeout(() => {
+                stopRain();
+            }, 3000);
+        }
 
-    if (savedTheme === 'dark') {
-      body.classList.add('dark');
-      themeToggle.textContent = '☀';
-      themeToggle.setAttribute('aria-pressed', 'true');
-      themeToggle.setAttribute('aria-label', 'Toggle light mode');
-    }
+        function stopRain() {
+            isRaining = false;
+            cloud.classList.remove('raining');
+            clearInterval(rainInterval);
+            
+            // Show rainbow after rain stops
+            setTimeout(() => {
+                rainbow.classList.add('show');
+                setTimeout(() => {
+                    rainbow.classList.remove('show');
+                }, 4000);
+            }, 500);
+        }
 
-    themeToggle.addEventListener('click', () => {
-      body.classList.toggle('dark');
-      const isDark = body.classList.contains('dark');
-      themeToggle.textContent = isDark ? '☀' : '☾';
-      themeToggle.setAttribute('aria-pressed', isDark ? 'true' : 'false');
-      themeToggle.setAttribute('aria-label', isDark ? 'Toggle light mode' : 'Toggle dark mode');
-      localStorage.setItem('theme', isDark ? 'dark' : 'light');
-    });
-  </script>
+        cloud.addEventListener('click', startRain);
+    </script>
 </body>
 </html>
