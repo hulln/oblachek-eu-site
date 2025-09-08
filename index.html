@@ -207,6 +207,11 @@
         }
 
         @media (max-width: 480px) {
+            body {
+                overflow: visible;
+                padding-bottom: 6rem;
+            }
+
             .title {
                 font-size: 1rem;
             }
@@ -231,7 +236,10 @@
             }
 
             .personal-info {
-                bottom: 2rem;
+                position: relative;
+                bottom: auto;
+                transform: none;
+                margin-top: 3rem;
                 font-size: 0.7rem;
                 padding: 0 1rem;
                 line-height: 1.6;
