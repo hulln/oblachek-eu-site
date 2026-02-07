@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>oblachek</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><path d='M30 60 Q20 60 20 50 Q20 40 30 40 Q30 30 45 30 Q55 20 70 30 Q85 30 85 45 Q85 60 70 60 Z' fill='%23ffffff'/></svg>">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500&display=swap" rel="stylesheet">
     <style>
         * {
             margin: 0;
@@ -12,8 +16,8 @@
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: linear-gradient(135deg, #B8D4F0 0%, #D6E8F5 100%);
+            font-family: 'Lexend', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #4A90E2 0%, #7CB3E9 50%, #A8D0F0 100%);
             min-height: 100vh;
             display: flex;
             flex-direction: column;
@@ -30,10 +34,11 @@
 
         .title {
             font-size: 1.2rem;
-            color: #2D3748;
+            color: #1a365d;
             margin-bottom: 4rem;
-            font-weight: 300;
+            font-weight: 400;
             letter-spacing: 0.5px;
+            text-shadow: 0 1px 2px rgba(255, 255, 255, 0.15);
         }
 
         .cloud {
@@ -159,36 +164,41 @@
 
         .instruction {
             font-size: 0.9rem;
-            color: #4A5568;
+            color: #1a365d;
             margin-top: 1rem;
-            opacity: 0.9;
-            font-weight: 300;
+            opacity: 0.8;
+            font-weight: 400;
+            text-shadow: 0 1px 1px rgba(255, 255, 255, 0.1);
         }
 
-        .personal-info {
+        .footer {
             position: absolute;
             bottom: 2rem;
             left: 50%;
             transform: translateX(-50%);
             text-align: center;
-            color: #4A5568;
-            font-size: 0.7rem;
-            opacity: 0.7;
-            font-weight: 300;
-            line-height: 1.4;
-            max-width: 400px;
-            padding: 0 1rem;
+            color: #1a365d;
+            font-size: 0.75rem;
+            opacity: 0.85;
+            font-weight: 400;
+            line-height: 1.6;
+            padding: 0.5rem 1rem;
+            width: auto;
         }
 
-        .personal-info a {
-            color: #2D3748;
+        .footer a {
+            color: #1a365d;
             text-decoration: none;
-            transition: opacity 0.2s ease;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            border-bottom: 1px solid transparent;
         }
 
-        .personal-info a:hover {
-            opacity: 0.8;
+        .footer a:hover {
+            color: #2c5282;
+            border-bottom-color: #2c5282;
         }
+
 
         .cloud-shadow {
             width: 100px;
@@ -236,21 +246,23 @@
                 right: 16px;
             }
 
-            .personal-info {
+            .footer {
                 position: fixed;
                 bottom: 3rem;
                 left: 50%;
                 transform: translateX(-50%);
                 margin: 0;
-                font-size: 0.65rem;
-                padding: 0 1rem;
-                line-height: 1.5;
-                max-width: 320px;
-                width: calc(100% - 2rem);
+                font-size: 0.7rem;
+                padding: 0.5rem 1rem;
+                line-height: 1.6;
+                width: auto;
+                max-width: calc(100% - 2rem);
+                text-align: center;
                 background: none;
                 border-radius: 0;
                 backdrop-filter: none;
             }
+
         }
     </style>
 </head>
@@ -264,8 +276,10 @@
         <p class="instruction">press me to make me cry</p>
     </div>
 
-    <div class="personal-info">
-        <p>Slovenia, Europe • <a href="https://bsky.app/profile/oblachek.eu">Bluesky</a> • <a href="https://hulln.github.io">Personal</a>
+    <div class="footer">
+        <span id="localTime"></span> • Slovenia, Europe<br>
+        <a href="https://bsky.app/profile/oblachek.eu">Bluesky</a> • my random <a href="https://bluesky-viewer.vercel.app/">Bluesky viewer</a><br>
+        Last updated: <span id="lastUpdated"></span>
     </div>
 
     <div class="rainbow" id="rainbow"></div>
@@ -338,6 +352,34 @@
         }
 
         cloud.addEventListener('click', startRain);
+
+        // Local time clock
+        function updateTime() {
+            const now = new Date();
+            const timeString = now.toLocaleTimeString('en-GB', { 
+                hour: '2-digit', 
+                minute: '2-digit',
+                second: '2-digit',
+                hour12: false 
+            });
+            document.getElementById('localTime').textContent = timeString;
+        }
+
+        // Last updated date
+        function setLastUpdated() {
+            const date = new Date('2026-02-07');
+            const dateString = date.toLocaleDateString('en-GB', { 
+                day: 'numeric', 
+                month: 'long', 
+                year: 'numeric' 
+            });
+            document.getElementById('lastUpdated').textContent = dateString;
+        }
+
+        // Initialize and update
+        updateTime();
+        setInterval(updateTime, 1000);
+        setLastUpdated();
     </script>
 </body>
 </html>
