@@ -1,0 +1,8 @@
+{
+  "name": "bsky-rss",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node generate.mjs --handle oblachek.eu --out ../../rss/bluesky.xml --site-url https://oblachek.eu --include-replies"
+  }
+}
