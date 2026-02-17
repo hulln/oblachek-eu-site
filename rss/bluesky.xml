@@ -8,8 +8,24 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: https://2cm.es/1p13n</description>
-  <lastBuildDate>Tue, 17 Feb 2026 16:04:44 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Feb 2026 16:35:38 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] To zveni sanjsko, si želim enkrat izkusiti. :)</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mf2xvgozd22p</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mf2xvgozd22p</guid>
+      <pubDate>Tue, 17 Feb 2026 16:21:30 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>To zveni sanjsko, si želim enkrat izkusiti. :)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mf2xvgozd22p">View post on Bluesky</a></description>
+    </item>
+    <item>
+      <title>[Reply] Včasih se je reklo, da imamo dva letna časa: zimo in avgust.</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mf2x5555ls2p</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mf2x5555ls2p</guid>
+      <pubDate>Tue, 17 Feb 2026 16:07:54 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Včasih se je reklo, da imamo dva letna časa: zimo in avgust.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mf2x5555ls2p">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Zdaj je sicer precej lepa proga tudi na italijanski strani, seveda ob zadostni količini...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mf2ww7swqc2p</link>
@@ -153,22 +169,6 @@
       <pubDate>Sat, 14 Feb 2026 14:18:43 GMT</pubDate>
       <category>post</category>
       <description>Brezplačen in enostaven Markdown urejevalnik na principu WYSIWYG (&quot;lepo formatirano besedilo&quot;) v brskalniku: typemd.kevinbarrionuevo.ch<br/><a href="https://bsky.app/profile/oblachek.eu/post/3met7n4plhc2s">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Me too, a day earlier; everything went really smoothly. Pleasantly surprised.</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3merpwn7mlk2t</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3merpwn7mlk2t</guid>
-      <pubDate>Sat, 14 Feb 2026 00:05:02 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Me too, a day earlier; everything went really smoothly. Pleasantly surprised.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3merpwn7mlk2t">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>test; in gifi so gifi, ne več videi</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mep4n2hrkc2o</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mep4n2hrkc2o</guid>
-      <pubDate>Thu, 12 Feb 2026 23:14:20 GMT</pubDate>
-      <category>post</category>
-      <description>test; in gifi so gifi, ne več videi<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mep4n2hrkc2o">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
