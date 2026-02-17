@@ -7,8 +7,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: https://2cm.es/1p13n</description>
-  <lastBuildDate>Tue, 17 Feb 2026 10:46:42 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Feb 2026 11:17:38 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UL končno, sicer verjetno kako desetletje prepozno, ponuja &quot;uradni merch&quot;, ki se ga ods...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mf2gvxp2j22w</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mf2gvxp2j22w</guid>
+      <pubDate>Tue, 17 Feb 2026 11:17:34 GMT</pubDate>
+      <category>post</category>
+      <description>UL končno, sicer verjetno kako desetletje prepozno, ponuja &quot;uradni merch&quot;, ki se ga odslej da celo kupiti: knjigarna.uni-lj.si/Zul/promocij...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mf2gvxp2j22w">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Ja, zračni filtri bi morali že zdavnaj postati standard – v vrtcih, šolah, javnih ustan...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mf2ezdma4k23</link>
@@ -160,14 +168,6 @@
       <pubDate>Wed, 11 Feb 2026 10:37:35 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Saj uradni app samo za Bluesky po mojem za večino uporabnikov čisto zadošča. Večina jih itak išče &quot;nadomestek za Twitter&quot;. Bo pa zanimivo videti, kako se bodo razvijale in nastajale neuradne aplikacije; pomoje jih ne bo veliko.<br/>Ti sicer pogrešaš kakšno specifično funkcionalnost na uradni?<br/><a href="https://bsky.app/profile/oblachek.eu/post/3melbuxnlpc2t">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Mene predvsem moti počasno nalaganje in podrsavanje čez vsebine, s filtri se mi še ni d...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3melaxvplts2t</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3melaxvplts2t</guid>
-      <pubDate>Wed, 11 Feb 2026 10:21:20 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Mene predvsem moti počasno nalaganje in podrsavanje čez vsebine, s filtri se mi še ni dalo igrati.<br/>Graysky je včasih obetal veliko, ampak ne deluje več. Trenutno preizkušam Tokimeki; zaenkrat ok, morda rahlo neintuitiven.<br/>Mogoče najdeš kaj zanimivega tukaj: github.com/fishttp/awes...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3melaxvplts2t">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
