@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: https://2cm.es/1p13n</description>
-  <lastBuildDate>Thu, 19 Feb 2026 09:17:55 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 19 Feb 2026 09:46:45 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dejstvo, da Reddit vedno bolj otežuje dostop neuradnim aplikacijam, celo dostop do ustv...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mf7btxkpy22h</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mf7btxkpy22h</guid>
+      <pubDate>Thu, 19 Feb 2026 09:30:17 GMT</pubDate>
+      <category>post</category>
+      <description>Dejstvo, da Reddit vedno bolj otežuje dostop neuradnim aplikacijam, celo dostop do ustvarjanja ključev za aplikacijo prek svojega računa, je le še dodaten razlog za izbris podatkov/aktivnosti (izbris računa namreč ne izbriše tudi podatkov).<br/>Zelo enostavno orodje za to: github.com/j0be/PowerDe...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mf7btxkpy22h">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] To zveni sanjsko, si želim enkrat izkusiti. :)</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mf2xvgozd22p</link>
@@ -161,14 +169,6 @@
       <pubDate>Sun, 15 Feb 2026 14:24:35 GMT</pubDate>
       <category>post</category>
       <description>Kar priročen uradni spored za slovenske nastope (tudi po posameznih nastopajočih) z možnostjo izvoza v koledar: olympic.si/igre/milano-...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mevqgkf6ns2t">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Brezplačen in enostaven Markdown urejevalnik na principu WYSIWYG (&quot;lepo formatirano bes...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3met7n4plhc2s</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3met7n4plhc2s</guid>
-      <pubDate>Sat, 14 Feb 2026 14:18:43 GMT</pubDate>
-      <category>post</category>
-      <description>Brezplačen in enostaven Markdown urejevalnik na principu WYSIWYG (&quot;lepo formatirano besedilo&quot;) v brskalniku: typemd.kevinbarrionuevo.ch<br/><a href="https://bsky.app/profile/oblachek.eu/post/3met7n4plhc2s">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
