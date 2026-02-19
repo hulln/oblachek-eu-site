@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Thu, 19 Feb 2026 15:04:05 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 19 Feb 2026 15:35:38 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Hvala, saj mi je tudi vzelo kar nekaj časa. Ampak me je zadeva res razočarala, tako da ...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mf7vsxdgjs27</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mf7vsxdgjs27</guid>
+      <pubDate>Thu, 19 Feb 2026 15:27:38 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Hvala, saj mi je tudi vzelo kar nekaj časa. Ampak me je zadeva res razočarala, tako da si zasluži transparentno objavo.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mf7vsxdgjs27">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Quote] Nedavno se je pojavila novica o ukinitvi ponudnika mobilnih storitev re:do. Strnjene mi...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mf7e6vhbfa2j</link>
@@ -161,14 +169,6 @@
       <pubDate>Sun, 15 Feb 2026 15:40:36 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Sicer dvomim, da lahko ravno vidiš pretekle storyje naključnih oseb, če jih ne shranijo v &quot;highlightse&quot;, kljub morebitnemu trudu.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mevuohii422s">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Kar priročen uradni spored za slovenske nastope (tudi po posameznih nastopajočih) z mož...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mevqgkf6ns2t</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mevqgkf6ns2t</guid>
-      <pubDate>Sun, 15 Feb 2026 14:24:35 GMT</pubDate>
-      <category>post</category>
-      <description>Kar priročen uradni spored za slovenske nastope (tudi po posameznih nastopajočih) z možnostjo izvoza v koledar: olympic.si/igre/milano-...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mevqgkf6ns2t">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
