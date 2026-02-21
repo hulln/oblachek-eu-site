@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Sat, 21 Feb 2026 08:07:42 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 21 Feb 2026 08:25:08 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Če mi ne bi bil Bearblog tako simpatičen, bi bil moj blog verjetno na @pckt.blog: izgle...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mfe6fkjypc2m</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfe6fkjypc2m</guid>
+      <pubDate>Sat, 21 Feb 2026 08:11:51 GMT</pubDate>
+      <category>post</category>
+      <description>Če mi ne bi bil Bearblog tako simpatičen, bi bil moj blog verjetno na @pckt.blog: izgleda enostavno za uporabo in omogoča prijavo z ATProto identiteto (oz. Bluesky računom).<br/>#ModroNebo<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfe6fkjypc2m">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Igrica, kjer poskušaš pretentati LLM, da ti izda geslo: gandalf.lakera.ai</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mfe5up43ts2m</link>
@@ -161,14 +169,6 @@
       <pubDate>Mon, 16 Feb 2026 12:38:11 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Eh, občutek starosti je relativen. (Jaz sicer isto mislim zase.)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mey2x7246k2g">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Razni &quot;volitvometri&quot; oz. usmerjevalniki za pomoč pri odločitvi na volitvah očitno raste...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mey247visk2g</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mey247visk2g</guid>
-      <pubDate>Mon, 16 Feb 2026 12:23:06 GMT</pubDate>
-      <category>post</category>
-      <description>Razni &quot;volitvometri&quot; oz. usmerjevalniki za pomoč pri odločitvi na volitvah očitno rastejo kot gobe po dežju (navedeni kronološko glede na čas pojavitve).<br/>- stranke.si<br/>- slovenija-prihodnosti.vercel.app<br/>- volitvobox.si<br/>Nepreizkušeno; naj seznam služi bolj kot javni zaznamek in arhiv.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mey247visk2g">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
