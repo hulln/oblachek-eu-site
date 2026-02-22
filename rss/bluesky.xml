@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Sun, 22 Feb 2026 08:07:31 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Feb 2026 08:25:07 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Sproti dodano: - volilnikompas.si/app/</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mfgp4i3yqs2a</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfgp4i3yqs2a</guid>
+      <pubDate>Sun, 22 Feb 2026 08:16:19 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Sproti dodano:<br/>- volilnikompas.si/app/<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfgp4i3yqs2a">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Če mi ne bi bil Bearblog tako simpatičen, bi bil moj blog verjetno na @pckt.blog: izgle...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mfe6fkjypc2m</link>
@@ -161,14 +169,6 @@
       <pubDate>Mon, 16 Feb 2026 14:02:30 GMT</pubDate>
       <category>post</category>
       <description>Za testiranje omrežja obstaja aplikacija AKOS Test Net, podobno kot Ookla Speedtest. In dobra je.<br/>akostest.net/sl/App.html<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mey7nxpeac2g">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Eh, občutek starosti je relativen. (Jaz sicer isto mislim zase.)</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mey2x7246k2g</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mey2x7246k2g</guid>
-      <pubDate>Mon, 16 Feb 2026 12:38:11 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Eh, občutek starosti je relativen. (Jaz sicer isto mislim zase.)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mey2x7246k2g">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
