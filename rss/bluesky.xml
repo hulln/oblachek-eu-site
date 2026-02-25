@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Wed, 25 Feb 2026 20:15:46 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Feb 2026 20:45:11 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Quote] &gt; Problem so panoji na splošno. Da. Dol s tem smetjem.</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mfpjn72mc22b</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfpjn72mc22b</guid>
+      <pubDate>Wed, 25 Feb 2026 20:32:15 GMT</pubDate>
+      <category>quote</category>
+      <description><strong>Quote post</strong><br/>&gt; Problem so panoji na splošno.<br/><br/>Da. Dol s tem smetjem.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfpjn72mc22b">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Same here!</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mfpc3vlafc2b</link>
@@ -161,14 +169,6 @@
       <pubDate>Fri, 20 Feb 2026 08:05:11 GMT</pubDate>
       <category>post</category>
       <description>Kategorizacija teh &quot;parlamentarnih&quot; strank je sicer poleg vsega drugega še precej butasta in nepotrebna.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfbnkqb6m22a">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Aja, verjetno tekoči, če je &quot;v času OI&quot;.</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfbj7sasrs2a</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfbj7sasrs2a</guid>
-      <pubDate>Fri, 20 Feb 2026 06:47:29 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Aja, verjetno tekoči, če je &quot;v času OI&quot;.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfbj7sasrs2a">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
