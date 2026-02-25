@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Wed, 25 Feb 2026 18:07:21 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Feb 2026 18:37:16 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Same here!</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mfpc3vlafc2b</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfpc3vlafc2b</guid>
+      <pubDate>Wed, 25 Feb 2026 18:17:19 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Same here!<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfpc3vlafc2b">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Da. Pred davnimi leti ob odprtju. Ko je bilo treba še rezervirati termin.</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mfotm3edok2o</link>
@@ -161,14 +169,6 @@
       <pubDate>Fri, 20 Feb 2026 06:47:29 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Aja, verjetno tekoči, če je &quot;v času OI&quot;.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfbj7sasrs2a">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] O, uau, tole je pa mikavno! Samo ni mi čisto jasno, a za lokacije, kjer ni datuma, velj...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfbj3zvtdk2a</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfbj3zvtdk2a</guid>
-      <pubDate>Fri, 20 Feb 2026 06:45:23 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>O, uau, tole je pa mikavno! Samo ni mi čisto jasno, a za lokacije, kjer ni datuma, velja tekoči ali naslednji teden – in tudi sicer očitno lahko prideš kar preizkusit zadevo kadarkoli na izbrani dan (www.curling-zveza.si/preizkusi-cu...)?<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfbj3zvtdk2a">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
