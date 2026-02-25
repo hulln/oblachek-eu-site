@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Wed, 25 Feb 2026 12:15:07 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Feb 2026 12:47:51 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] - izvoli.si</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mfoomhvsi22z</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfoomhvsi22z</guid>
+      <pubDate>Wed, 25 Feb 2026 12:28:40 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>- izvoli.si<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfoomhvsi22z">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] +neskončno! Slovenščina je ljubka. &lt;3</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mfofjob6yc2c</link>
@@ -161,14 +169,6 @@
       <pubDate>Thu, 19 Feb 2026 10:12:12 GMT</pubDate>
       <category>quote</category>
       <description><strong>Quote post</strong><br/>Nedavno se je pojavila novica o ukinitvi ponudnika mobilnih storitev re:do. Strnjene misli z uporabniške perspektive so na voljo tu: is.gd/nQargR<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mf7e6vhbfa2j">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Dejstvo, da Reddit vedno bolj otežuje dostop neuradnim aplikacijam, celo dostop do ustv...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mf7btxkpy22h</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mf7btxkpy22h</guid>
-      <pubDate>Thu, 19 Feb 2026 09:30:17 GMT</pubDate>
-      <category>post</category>
-      <description>Dejstvo, da Reddit vedno bolj otežuje dostop neuradnim aplikacijam, celo dostop do ustvarjanja ključev za aplikacijo prek svojega računa, je le še dodaten razlog za izbris podatkov/aktivnosti (izbris računa namreč ne izbriše tudi podatkov).<br/>Zelo enostavno orodje za to: github.com/j0be/PowerDe...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mf7btxkpy22h">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
