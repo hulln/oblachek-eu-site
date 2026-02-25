@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Wed, 25 Feb 2026 09:34:26 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Feb 2026 10:05:49 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] +neskončno! Slovenščina je ljubka. &lt;3</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mfofjob6yc2c</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfofjob6yc2c</guid>
+      <pubDate>Wed, 25 Feb 2026 09:46:02 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>+neskončno! Slovenščina je ljubka. &lt;3<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfofjob6yc2c">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Med naključnim brskanjem po spletnih širjavah me je – dasiravno se zavedam, da ne gre v...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mfocflunxk2y</link>
@@ -161,14 +169,6 @@
       <pubDate>Thu, 19 Feb 2026 09:30:17 GMT</pubDate>
       <category>post</category>
       <description>Dejstvo, da Reddit vedno bolj otežuje dostop neuradnim aplikacijam, celo dostop do ustvarjanja ključev za aplikacijo prek svojega računa, je le še dodaten razlog za izbris podatkov/aktivnosti (izbris računa namreč ne izbriše tudi podatkov).<br/>Zelo enostavno orodje za to: github.com/j0be/PowerDe...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mf7btxkpy22h">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] To zveni sanjsko, si želim enkrat izkusiti. :)</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mf2xvgozd22p</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mf2xvgozd22p</guid>
-      <pubDate>Tue, 17 Feb 2026 16:21:30 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>To zveni sanjsko, si želim enkrat izkusiti. :)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mf2xvgozd22p">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
