@@ -8,8 +8,48 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Thu, 26 Feb 2026 09:47:18 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Feb 2026 10:18:08 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Quote] Če je tole vsaj delno res, je zadeva zelo sporna. noyb.eu/en/digital-o...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mfqxgqsn622n</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfqxgqsn622n</guid>
+      <pubDate>Thu, 26 Feb 2026 10:11:51 GMT</pubDate>
+      <category>quote</category>
+      <description><strong>Quote post</strong><br/>Če je tole vsaj delno res, je zadeva zelo sporna.<br/>noyb.eu/en/digital-o...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfqxgqsn622n">View post on Bluesky</a></description>
+    </item>
+    <item>
+      <title>[Reply] Težava Mastodona ni le v kompleksnosti (tudi za samostojno gostovanje lastne instance),...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mfqwumwbhd2z</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfqwumwbhd2z</guid>
+      <pubDate>Thu, 26 Feb 2026 10:01:43 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Težava Mastodona ni le v kompleksnosti (tudi za samostojno gostovanje lastne instance), ampak v slabši uporabniški izkušnji (npr. neprikaz starih objav in sledilcev uporabnikov drugih instanc). Bluesky je tozadevno uporabniško prijaznejši – in za večino &quot;tviterskih prišlekov&quot; zato tudi tako zanimiv.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfqwumwbhd2z">View post on Bluesky</a></description>
+    </item>
+    <item>
+      <title>[Reply] Bluesky se zdi bolj preprost kot Mastodon, saj pri slednjem posledice federacije pridej...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mfqwumwai32z</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfqwumwai32z</guid>
+      <pubDate>Thu, 26 Feb 2026 10:01:43 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Bluesky se zdi bolj preprost kot Mastodon, saj pri slednjem posledice federacije pridejo precej bolj do izraza. Najprej moraš izbrati strežnik; nanj je vezana tvoja identiteta. Pri Blueskyju pa je gostovanje računa lahko ločeno od same aplikacije, zato je vse skupaj za uporabnika bolj enostavno.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfqwumwai32z">View post on Bluesky</a></description>
+    </item>
+    <item>
+      <title>[Reply] ATProto ne decentralizira vsega hkrati, ampak loči plasti: identity, hosting, indexing ...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mfqwumwai22z</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfqwumwai22z</guid>
+      <pubDate>Thu, 26 Feb 2026 10:01:43 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>ATProto ne decentralizira vsega hkrati, ampak loči plasti: identity, hosting, indexing in client/app layer.<br/>Lasten PDS ti omogoča več nadzora nad gostovanjem in lažjo selitev računa, saj so podatki &quot;tvoji&quot;. A Bluesky lahko še vedno na ravni svoje aplikacije vpliva na prikaz tvojega profila ostalim.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfqwumwai22z">View post on Bluesky</a></description>
+    </item>
+    <item>
+      <title>[Quote] O decentralizaciji AT-protokola in primerjava z drugimi tipi decentralizacije. Za tisti...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mfqwumvqu22z</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfqwumvqu22z</guid>
+      <pubDate>Thu, 26 Feb 2026 10:01:43 GMT</pubDate>
+      <category>quote</category>
+      <description><strong>Quote post</strong><br/>O decentralizaciji AT-protokola in primerjava z drugimi tipi decentralizacije.<br/><br/>Za tistih par osamelcev, ki občasno zaidejo na moje monologe o #ModroNebo itd., pa še kratek poskus povzetka oz. nekaj dodatnih misli.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfqwumvqu22z">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Quote] &gt; Problem so panoji na splošno. Da. Dol s tem smetjem.</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mfpjn72mc22b</link>
@@ -129,46 +169,6 @@
       <pubDate>Mon, 23 Feb 2026 15:23:48 GMT</pubDate>
       <category>quote</category>
       <description><strong>Quote post</strong><br/>Očitno je o tem zloglasnem &quot;slovničnem&quot; (Nik je malo preširoko zastavil kategorijo; bolje bi bilo enostavno &quot;slovenščina&quot;) kvizu bilo prelitega že nekaj virtualnega črnila; pa naj ga na ta čudovit sončen dan vnovič potegnem na plano.<br/>(V arhivu na strani je to &quot;Januar, slovnica&quot;.)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfjxhsnack2d">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Zelo kratka časovna omejitev za komentar/repliko oz. v primeru neupoštevanja kasnejše p...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfhf3lrkrc2w</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfhf3lrkrc2w</guid>
-      <pubDate>Sun, 22 Feb 2026 14:49:32 GMT</pubDate>
-      <category>post</category>
-      <description>Zelo kratka časovna omejitev za komentar/repliko oz. v primeru neupoštevanja kasnejše prekinjanje govorcev na soočenjih je izjemno nadležno.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfhf3lrkrc2w">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Sproti dodano: - volilnikompas.si/app/</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfgp4i3yqs2a</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfgp4i3yqs2a</guid>
-      <pubDate>Sun, 22 Feb 2026 08:16:19 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Sproti dodano:<br/>- volilnikompas.si/app/<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfgp4i3yqs2a">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Če mi ne bi bil Bearblog tako simpatičen, bi bil moj blog verjetno na @pckt.blog: izgle...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfe6fkjypc2m</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfe6fkjypc2m</guid>
-      <pubDate>Sat, 21 Feb 2026 08:11:51 GMT</pubDate>
-      <category>post</category>
-      <description>Če mi ne bi bil Bearblog tako simpatičen, bi bil moj blog verjetno na @pckt.blog: izgleda enostavno za uporabo in omogoča prijavo z ATProto identiteto (oz. Bluesky računom).<br/>#ModroNebo<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfe6fkjypc2m">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Igrica, kjer poskušaš pretentati LLM, da ti izda geslo: gandalf.lakera.ai</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfe5up43ts2m</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfe5up43ts2m</guid>
-      <pubDate>Sat, 21 Feb 2026 08:02:25 GMT</pubDate>
-      <category>post</category>
-      <description>Igrica, kjer poskušaš pretentati LLM, da ti izda geslo: gandalf.lakera.ai<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfe5up43ts2m">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Kategorizacija teh &quot;parlamentarnih&quot; strank je sicer poleg vsega drugega še precej butas...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfbnkqb6m22a</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfbnkqb6m22a</guid>
-      <pubDate>Fri, 20 Feb 2026 08:05:11 GMT</pubDate>
-      <category>post</category>
-      <description>Kategorizacija teh &quot;parlamentarnih&quot; strank je sicer poleg vsega drugega še precej butasta in nepotrebna.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfbnkqb6m22a">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
