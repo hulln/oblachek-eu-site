@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Fri, 27 Feb 2026 22:53:06 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Feb 2026 23:06:45 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Quote] Tale je zaenkrat moj najljubši. Vsebuje še povezave do programov posameznih strank/list...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mfusubwz2c2r</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfusubwz2c2r</guid>
+      <pubDate>Fri, 27 Feb 2026 23:00:36 GMT</pubDate>
+      <category>quote</category>
+      <description><strong>Quote post</strong><br/>Tale je zaenkrat moj najljubši. Vsebuje še povezave do programov posameznih strank/list, pa tudi statistiko reševanj.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfusubwz2c2r">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Najprej se mi je zdelo, da je tale velemrk posledica postopnega zmanjševanja uporabnost...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mfu6wtgnu22p</link>
@@ -161,14 +169,6 @@
       <pubDate>Tue, 24 Feb 2026 11:56:58 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>(O procesu brisanja in razlogih za brisanje pa več tu: is.gd/fH02Bm)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfm4euusrk2m">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] In – verjetno v nasprotju z večino – upam, da se čimveč ljudi premakne semkaj. Mnenjski...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfm4athgec2m</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfm4athgec2m</guid>
-      <pubDate>Tue, 24 Feb 2026 11:54:43 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>In – verjetno v nasprotju z večino – upam, da se čimveč ljudi premakne semkaj. Mnenjski mehurček, ki ga nekateri tako zagovarjajo, se mi ne zdi optimalen. Debate z vselej enakomislečimi so, če drugega ne, lahko precej dolgočasne.<br/>Za kletne in družbo pa vedno obstaja čudežni gumb &quot;mute&quot;.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfm4athgec2m">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
