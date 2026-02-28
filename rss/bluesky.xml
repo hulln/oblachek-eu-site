@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Sat, 28 Feb 2026 18:57:50 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 28 Feb 2026 19:09:49 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Sem že nekaj časa na Eurosky, migracija z MOOver, brez težav. Ohraniš lahko svoj trenut...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mfww7jzuc22q</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfww7jzuc22q</guid>
+      <pubDate>Sat, 28 Feb 2026 19:05:54 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Sem že nekaj časa na Eurosky, migracija z MOOver, brez težav. Ohraniš lahko svoj trenutni račun, tudi z lastno domeno. Efektivno ni nobene razlike, pa tudi seveda ne gre za neko stoodstotno EU zadevo, ker pač specifike ATProto, ampak vsekakor se zdi korak v pravo smer.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfww7jzuc22q">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Tole zadnje orodje je &quot;moje&quot; in mene je kar šokiralo, kako odprti so podatki na ATProto...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mfwuwfl2oc22</link>
@@ -161,14 +169,6 @@
       <pubDate>Wed, 25 Feb 2026 13:57:56 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Da. Pred davnimi leti ob odprtju. Ko je bilo treba še rezervirati termin.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfotm3edok2o">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Quote] Tole me spominja na Ikeo in tamkajšnje vztrajno omenjanje &quot;razstavnih eksponentov&quot;.</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfoqdhscfs23</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfoqdhscfs23</guid>
-      <pubDate>Wed, 25 Feb 2026 12:59:25 GMT</pubDate>
-      <category>quote</category>
-      <description><strong>Quote post</strong><br/>Tole me spominja na Ikeo in tamkajšnje vztrajno omenjanje &quot;razstavnih eksponentov&quot;.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfoqdhscfs23">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
