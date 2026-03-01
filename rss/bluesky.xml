@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Sun, 01 Mar 2026 19:11:16 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 01 Mar 2026 19:25:17 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ne razumem, zakaj ljudje najraje poslušajo že znano glasbo oz. so navadno proti temu, d...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mfzgzkq4zs26</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfzgzkq4zs26</guid>
+      <pubDate>Sun, 01 Mar 2026 19:12:06 GMT</pubDate>
+      <category>post</category>
+      <description>Ne razumem, zakaj ljudje najraje poslušajo že znano glasbo oz. so navadno proti temu, da npr. v avtu nekdo predvaja nekaj manj znanega.<br/>Podobno pri Spotify wrapped (in ostalih) ob koncu leta, češ, &quot;kaj delite, saj to nikogar ne zanima&quot;.<br/>Jaz vedno z veseljem prisluhnem neznanim, obskurnim zadevam. :(<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfzgzkq4zs26">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Aspekt hibridnih oblik dela, študija, izvedbe dogodkov je v valu dostopnostnih in vklju...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mfym6thmi22z</link>
@@ -161,14 +169,6 @@
       <pubDate>Thu, 26 Feb 2026 10:01:43 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Bluesky se zdi bolj preprost kot Mastodon, saj pri slednjem posledice federacije pridejo precej bolj do izraza. Najprej moraš izbrati strežnik; nanj je vezana tvoja identiteta. Pri Blueskyju pa je gostovanje računa lahko ločeno od same aplikacije, zato je vse skupaj za uporabnika bolj enostavno.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfqwumwai32z">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] ATProto ne decentralizira vsega hkrati, ampak loči plasti: identity, hosting, indexing ...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfqwumwai22z</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfqwumwai22z</guid>
-      <pubDate>Thu, 26 Feb 2026 10:01:43 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>ATProto ne decentralizira vsega hkrati, ampak loči plasti: identity, hosting, indexing in client/app layer.<br/>Lasten PDS ti omogoča več nadzora nad gostovanjem in lažjo selitev računa, saj so podatki &quot;tvoji&quot;. A Bluesky lahko še vedno na ravni svoje aplikacije vpliva na prikaz tvojega profila ostalim.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfqwumwai22z">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
