@@ -85,7 +85,8 @@ function updateTime() {
 
 // Last updated date
 function setLastUpdated() {
-    const date = new Date();
+    const modifiedAt = document.lastModified ? new Date(document.lastModified) : new Date();
+    const date = Number.isNaN(modifiedAt.getTime()) ? new Date() : modifiedAt;
     const dateString = date.toLocaleDateString('en-GB', { 
         day: 'numeric', 
         month: 'long', 
