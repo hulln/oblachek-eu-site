@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Sun, 01 Mar 2026 11:05:38 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 01 Mar 2026 11:23:45 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aspekt hibridnih oblik dela, študija, izvedbe dogodkov je v valu dostopnostnih in vklju...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mfym6thmi22z</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfym6thmi22z</guid>
+      <pubDate>Sun, 01 Mar 2026 11:11:52 GMT</pubDate>
+      <category>post</category>
+      <description>Aspekt hibridnih oblik dela, študija, izvedbe dogodkov je v valu dostopnostnih in vključujočnostnih puhlic pogosto spregledan ali namenoma izpuščen. Ob drugem dnevu inkluzije tako nekaj misli na to temo.<br/>nx.bearblog.dev/ta-veseli-da...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfym6thmi22z">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Seveda, če je API na voljo. :D</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mfwy64gpbk2q</link>
@@ -161,14 +169,6 @@
       <pubDate>Thu, 26 Feb 2026 10:01:43 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>ATProto ne decentralizira vsega hkrati, ampak loči plasti: identity, hosting, indexing in client/app layer.<br/>Lasten PDS ti omogoča več nadzora nad gostovanjem in lažjo selitev računa, saj so podatki &quot;tvoji&quot;. A Bluesky lahko še vedno na ravni svoje aplikacije vpliva na prikaz tvojega profila ostalim.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfqwumwai22z">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Quote] O decentralizaciji AT-protokola in primerjava z drugimi tipi decentralizacije. Za tisti...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfqwumvqu22z</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfqwumvqu22z</guid>
-      <pubDate>Thu, 26 Feb 2026 10:01:43 GMT</pubDate>
-      <category>quote</category>
-      <description><strong>Quote post</strong><br/>O decentralizaciji AT-protokola in primerjava z drugimi tipi decentralizacije.<br/><br/>Za tistih par osamelcev, ki občasno zaidejo na moje monologe o #ModroNebo itd., pa še kratek poskus povzetka oz. nekaj dodatnih misli.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfqwumvqu22z">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
