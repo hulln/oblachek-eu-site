@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 02 Mar 2026 06:34:33 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Mar 2026 07:07:53 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Zelo smiselno, ja. Saj jaz podobno, to mogoče ni bilo dovolj jasno. Ampak na kakšnih dr...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mg2n7frb5c26</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mg2n7frb5c26</guid>
+      <pubDate>Mon, 02 Mar 2026 06:35:25 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Zelo smiselno, ja. Saj jaz podobno, to mogoče ni bilo dovolj jasno. Ampak na kakšnih druženjih in podobno se pa meni zdi čisto ok, če se izmenjavajo različni, nepoznani komadi.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mg2n7frb5c26">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Ne razumem, zakaj ljudje najraje poslušajo že znano glasbo oz. so navadno proti temu, d...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mfzgzkq4zs26</link>
@@ -161,14 +169,6 @@
       <pubDate>Thu, 26 Feb 2026 10:01:43 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Težava Mastodona ni le v kompleksnosti (tudi za samostojno gostovanje lastne instance), ampak v slabši uporabniški izkušnji (npr. neprikaz starih objav in sledilcev uporabnikov drugih instanc). Bluesky je tozadevno uporabniško prijaznejši – in za večino &quot;tviterskih prišlekov&quot; zato tudi tako zanimiv.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfqwumwbhd2z">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Bluesky se zdi bolj preprost kot Mastodon, saj pri slednjem posledice federacije pridej...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfqwumwai32z</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfqwumwai32z</guid>
-      <pubDate>Thu, 26 Feb 2026 10:01:43 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Bluesky se zdi bolj preprost kot Mastodon, saj pri slednjem posledice federacije pridejo precej bolj do izraza. Najprej moraš izbrati strežnik; nanj je vezana tvoja identiteta. Pri Blueskyju pa je gostovanje računa lahko ločeno od same aplikacije, zato je vse skupaj za uporabnika bolj enostavno.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfqwumwai32z">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
