@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 02 Mar 2026 17:30:49 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Mar 2026 18:00:18 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Zanimivo, in ja, ogromno je takih poročanj. Sicer jaz zaenkrat še nimam teh izkušenj, S...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mg3smzivwk2k</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mg3smzivwk2k</guid>
+      <pubDate>Mon, 02 Mar 2026 17:45:10 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Zanimivo, in ja, ogromno je takih poročanj. Sicer jaz zaenkrat še nimam teh izkušenj, Spotify discovery je za moje pojme odličen in tako najdem precej dobrih (tudi slovenskih) zadev.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mg3smzivwk2k">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Zelo smiselno, ja. Saj jaz podobno, to mogoče ni bilo dovolj jasno. Ampak na kakšnih dr...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mg2n7frb5c26</link>
@@ -161,14 +169,6 @@
       <pubDate>Thu, 26 Feb 2026 10:11:51 GMT</pubDate>
       <category>quote</category>
       <description><strong>Quote post</strong><br/>Če je tole vsaj delno res, je zadeva zelo sporna.<br/>noyb.eu/en/digital-o...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfqxgqsn622n">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Težava Mastodona ni le v kompleksnosti (tudi za samostojno gostovanje lastne instance),...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfqwumwbhd2z</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfqwumwbhd2z</guid>
-      <pubDate>Thu, 26 Feb 2026 10:01:43 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Težava Mastodona ni le v kompleksnosti (tudi za samostojno gostovanje lastne instance), ampak v slabši uporabniški izkušnji (npr. neprikaz starih objav in sledilcev uporabnikov drugih instanc). Bluesky je tozadevno uporabniško prijaznejši – in za večino &quot;tviterskih prišlekov&quot; zato tudi tako zanimiv.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfqwumwbhd2z">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
