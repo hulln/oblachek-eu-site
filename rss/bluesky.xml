@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Sat, 07 Mar 2026 18:24:58 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 18:45:03 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vožnja z AP MS je vedno pozitivno presenečenje. Avtobusi hitri, točni, dobro opremljeni.</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mgihoxts5c2j</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgihoxts5c2j</guid>
+      <pubDate>Sat, 07 Mar 2026 18:34:01 GMT</pubDate>
+      <category>post</category>
+      <description>Vožnja z AP MS je vedno pozitivno presenečenje. Avtobusi hitri, točni, dobro opremljeni.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgihoxts5c2j">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Seveda so migracije na Eurosky pozitiven premik in smiselno dejanje, a obenem se je tre...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mgf7j7gpuc2l</link>
@@ -161,14 +169,6 @@
       <pubDate>Sat, 28 Feb 2026 11:20:38 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Tale izvoli.si je pa po smiselnosti in strukturi podoben volitvoboxu. Grozno pripravljena vprašanja, tako se res ne dela teh volitvometrov, ajme. Edina dobra stran je, da se stranke lahko dodatno opredelijo do odgovorov in jih natančneje pojasnijo.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfw47lrhys2z">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Quote] Tale je zaenkrat moj najljubši. Vsebuje še povezave do programov posameznih strank/list...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfusubwz2c2r</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfusubwz2c2r</guid>
-      <pubDate>Fri, 27 Feb 2026 23:00:36 GMT</pubDate>
-      <category>quote</category>
-      <description><strong>Quote post</strong><br/>Tale je zaenkrat moj najljubši. Vsebuje še povezave do programov posameznih strank/list, pa tudi statistiko reševanj.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfusubwz2c2r">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
