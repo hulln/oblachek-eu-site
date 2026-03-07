@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Sat, 07 Mar 2026 23:23:49 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 23:37:58 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Hallo, falls die Fragen ernst gemeint wurden, würde ich zum Anfang diesen Artikel über ...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mgiya5goac2i</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgiya5goac2i</guid>
+      <pubDate>Sat, 07 Mar 2026 23:29:57 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Hallo, falls die Fragen ernst gemeint wurden, würde ich zum Anfang diesen Artikel über die Dezentralisierung des AT-Protokolls empfehlen: www.pfrazee.com/blog/practic.... Hier auch eine Erklärung, warum auch alternative PDSe doch irgendwie von Bsky abhängig sind.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgiya5goac2i">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Die Massenmigration zu Eurosky ist zudem keine vollständige Migration, sondern betrifft...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mginap5vo22j</link>
@@ -161,14 +169,6 @@
       <pubDate>Sat, 28 Feb 2026 14:32:45 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Haha, to meni tudi ni bilo jasno. Pa ok, nič narobe z monologi. Je pa kar bizarno, kako tako zelo preceniš domet svojih objav. :D<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfwgx4mcyk22">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Čeprav to praviloma drži, ni nujno v vseh primerih; da se nastaviti, da tvoje objave vi...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfwgmohe6s22</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfwgmohe6s22</guid>
-      <pubDate>Sat, 28 Feb 2026 14:26:55 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Čeprav to praviloma drži, ni nujno v vseh primerih; da se nastaviti, da tvoje objave vidijo le prijavljeni uporabniki. Ampak to se tudi da precej lepo zaobiti z različnimi orodji (npr. skyview.social, glimpsky.oblachek.eu/).<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfwgmohe6s22">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
