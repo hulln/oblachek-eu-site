@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Sun, 08 Mar 2026 20:05:26 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 20:24:15 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Še bolj kot prej (npr. www.reddit.com/r/graphic_de...); zdaj so očitno prešli na gradie...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mgl64arja22i</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgl64arja22i</guid>
+      <pubDate>Sun, 08 Mar 2026 20:20:28 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Še bolj kot prej (npr. www.reddit.com/r/graphic_de...); zdaj so očitno prešli na gradientne, da so si še bolj podobni za različne aplikacije.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgl64arja22i">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Kako grd je novi logo za Google Maps.</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mgl4ud7sf22i</link>
@@ -161,14 +169,6 @@
       <pubDate>Sat, 28 Feb 2026 19:05:54 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Sem že nekaj časa na Eurosky, migracija z MOOver, brez težav. Ohraniš lahko svoj trenutni račun, tudi z lastno domeno. Efektivno ni nobene razlike, pa tudi seveda ne gre za neko stoodstotno EU zadevo, ker pač specifike ATProto, ampak vsekakor se zdi korak v pravo smer.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfww7jzuc22q">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Tole zadnje orodje je &quot;moje&quot; in mene je kar šokiralo, kako odprti so podatki na ATProto...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfwuwfl2oc22</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfwuwfl2oc22</guid>
-      <pubDate>Sat, 28 Feb 2026 18:42:53 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Tole zadnje orodje je &quot;moje&quot; in mene je kar šokiralo, kako odprti so podatki na ATProto. (Mene v pozitivnem smislu; marsikdo se verjetno niti ne zaveda.)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfwuwfl2oc22">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
