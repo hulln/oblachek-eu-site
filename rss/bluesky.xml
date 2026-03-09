@@ -8,8 +8,24 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 09 Mar 2026 20:25:21 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 20:45:11 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Quote] V statistiko se vpisujem kot &quot;objava v slovenščini&quot;. 🇸🇮</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mgnpa5xb3226</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgnpa5xb3226</guid>
+      <pubDate>Mon, 09 Mar 2026 20:32:13 GMT</pubDate>
+      <category>quote</category>
+      <description><strong>Quote post</strong><br/>V statistiko se vpisujem kot &quot;objava v slovenščini&quot;. 🇸🇮<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgnpa5xb3226">View post on Bluesky</a></description>
+    </item>
+    <item>
+      <title>[Quote] Lepo je bilo, dokler je trajalo. #modronebo Upam, da se kmalu pojavijo ustrezne in delu...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mgnozqsygk22</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgnozqsygk22</guid>
+      <pubDate>Mon, 09 Mar 2026 20:28:37 GMT</pubDate>
+      <category>quote</category>
+      <description><strong>Quote post</strong><br/>Lepo je bilo, dokler je trajalo. #modronebo<br/>Upam, da se kmalu pojavijo ustrezne in delujoče alternative.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgnozqsygk22">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Mene tudi zanima, ker so se mi zdeli večinoma še kar ustrezni; bi se dalo izvedeti kaj ...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mgn7sm6mr22i</link>
@@ -153,22 +169,6 @@
       <pubDate>Sat, 28 Feb 2026 19:40:54 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Seveda, če je API na voljo. :D<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfwy64gpbk2q">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Meni je vse skupaj vzelo slabih 10 min, tako da kar pogumno. So pa zdaj izdali tudi EU-...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfwy4jqxrc2q</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfwy4jqxrc2q</guid>
-      <pubDate>Sat, 28 Feb 2026 19:40:00 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Meni je vse skupaj vzelo slabih 10 min, tako da kar pogumno. So pa zdaj izdali tudi EU-Haul (ali nekaj podobnega?), ampak ne vem čisto, zakaj bi bilo to bolje od PDS MOOverja.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfwy4jqxrc2q">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] V začetnejših časih so nekateri poročali o težavah z migracijo zaradi prevelikega nenad...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfwy2rlhb22q</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfwy2rlhb22q</guid>
-      <pubDate>Sat, 28 Feb 2026 19:39:01 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>V začetnejših časih so nekateri poročali o težavah z migracijo zaradi prevelikega nenadnega navala na Eurosky.<br/>Feedov pa nimam nobenih posebnih, tako da ti tu žal ne morem pomagati. Bo pa Eurosky mislim da kmalu celo odprt za vse in ne bo treba čakati na povabilo, samo očitno še niso v tej fazi.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfwy2rlhb22q">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
