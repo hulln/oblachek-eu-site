@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 09 Mar 2026 15:35:39 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 16:06:49 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Mene tudi zanima, ker so se mi zdeli večinoma še kar ustrezni; bi se dalo izvedeti kaj ...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mgn7sm6mr22i</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgn7sm6mr22i</guid>
+      <pubDate>Mon, 09 Mar 2026 15:56:12 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Mene tudi zanima, ker so se mi zdeli večinoma še kar ustrezni; bi se dalo izvedeti kaj bolj konkretnega?<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgn7sm6mr22i">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Še bolj kot prej (npr. www.reddit.com/r/graphic_de...); zdaj so očitno prešli na gradie...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mgl64arja22i</link>
@@ -161,14 +169,6 @@
       <pubDate>Sat, 28 Feb 2026 19:39:01 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>V začetnejših časih so nekateri poročali o težavah z migracijo zaradi prevelikega nenadnega navala na Eurosky.<br/>Feedov pa nimam nobenih posebnih, tako da ti tu žal ne morem pomagati. Bo pa Eurosky mislim da kmalu celo odprt za vse in ne bo treba čakati na povabilo, samo očitno še niso v tej fazi.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfwy2rlhb22q">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Sem že nekaj časa na Eurosky, migracija z MOOver, brez težav. Ohraniš lahko svoj trenut...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mfww7jzuc22q</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mfww7jzuc22q</guid>
-      <pubDate>Sat, 28 Feb 2026 19:05:54 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Sem že nekaj časa na Eurosky, migracija z MOOver, brez težav. Ohraniš lahko svoj trenutni račun, tudi z lastno domeno. Efektivno ni nobene razlike, pa tudi seveda ne gre za neko stoodstotno EU zadevo, ker pač specifike ATProto, ampak vsekakor se zdi korak v pravo smer.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mfww7jzuc22q">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
