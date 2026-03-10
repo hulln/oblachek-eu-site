@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Tue, 10 Mar 2026 22:42:54 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 10 Mar 2026 22:56:00 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dr. Alojz Ihan je bil, med drugim, eden redkih strokovnjakov pri nas, ki je javno izpos...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mgqhmuzx2s26</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgqhmuzx2s26</guid>
+      <pubDate>Tue, 10 Mar 2026 22:54:09 GMT</pubDate>
+      <category>post</category>
+      <description>Dr. Alojz Ihan je bil, med drugim, eden redkih strokovnjakov pri nas, ki je javno izpostavil problem dolgega covida.<br/>n1info.si/novice/mnenj...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgqhmuzx2s26">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Razvijajo se alternative, npr. Blacksky, Northsky. Verjetno jih bo kmalu več. Ampak tol...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mgpdgpkh422z</link>
@@ -161,14 +169,6 @@
       <pubDate>Fri, 06 Mar 2026 11:22:48 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Komentar se nanaša izključno na oglaševalski aspekt te zadeve. In ker je tale (sicer že nekaj dni star) članek za povod zapisa zaklenjen, se komentar nanaša le na to, kar je vidno brez registracije.<br/>www.delo.si/novice/okolj...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgf74y2z322l">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Hoferjeva oglaševalska kampanja, ki jo označujejo kot &quot;agresivno&quot; in &quot;nedostojno&quot;, je h...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mgf74y27ok2l</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgf74y27ok2l</guid>
-      <pubDate>Fri, 06 Mar 2026 11:22:48 GMT</pubDate>
-      <category>post</category>
-      <description>Hoferjeva oglaševalska kampanja, ki jo označujejo kot &quot;agresivno&quot; in &quot;nedostojno&quot;, je hkrati eden redkih tovrstnih t. i. eksperimentov pri nas. Transparentno, direktno, jasno. Oglaševanje je v osnovi sporno, a takšen direkten način po mojem spada med manj sporne dele oglaševanja.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgf74y27ok2l">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
