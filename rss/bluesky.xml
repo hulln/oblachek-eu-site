@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Tue, 10 Mar 2026 09:46:22 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 10 Mar 2026 10:14:59 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Zadeve se očitno kar premikajo in fascinantno velika je skupnost navdušencev nad odprti...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mgp45kjbk22g</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgp45kjbk22g</guid>
+      <pubDate>Tue, 10 Mar 2026 09:56:03 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Zadeve se očitno kar premikajo in fascinantno velika je skupnost navdušencev nad odprtim javnim potniškim prometom: rt.gtfs.derp.si (objavljeno je tudi vabilo v Discord strežnik za vse zainteresirane).<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgp45kjbk22g">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Nekdo me je prijazno popravil, da uraden GPS za medkrajevni promet že obstaja, napovedi...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mgoxcboufc2g</link>
@@ -161,14 +169,6 @@
       <pubDate>Mon, 02 Mar 2026 21:04:55 GMT</pubDate>
       <category>post</category>
       <description>Ena dobrih strani nekoliko starejših nastanitev so tuškabine z vrati, ki se jih dejansko da zapreti. Kaj ti bodo vsa ta novodobna fensi stekla, če je to skoraj vedno recept za poplavo (če drugega ne, so pa vsaj nepraktična).<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mg45s6zcak2z">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Pa še konstantno ponavljanje &quot;v Jesenicah&quot; jasno kaže, da se je bolj redko s kom od tam...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mg45plbajk2z</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mg45plbajk2z</guid>
-      <pubDate>Mon, 02 Mar 2026 21:03:27 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Pa še konstantno ponavljanje &quot;v Jesenicah&quot; jasno kaže, da se je bolj redko s kom od tam pogovarjala o zadevi.<br/>#soočenje<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mg45plbajk2z">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
