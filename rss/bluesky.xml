@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Thu, 12 Mar 2026 05:36:56 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 12 Mar 2026 06:03:58 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Fokus na Ljubljano in/ali (večja) mesta in s tem ignoriranje težav centralizacije dejan...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mgtomfukxk2z</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgtomfukxk2z</guid>
+      <pubDate>Thu, 12 Mar 2026 05:37:08 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Fokus na Ljubljano in/ali (večja) mesta in s tem ignoriranje težav centralizacije dejansko je problematično, ja.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgtomfukxk2z">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Another one on Firefox and Pixel, although the difference compared with an external Del...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mgrnhxkvqc26</link>
@@ -161,14 +169,6 @@
       <pubDate>Sun, 08 Mar 2026 19:58:09 GMT</pubDate>
       <category>post</category>
       <description>Kako grd je novi logo za Google Maps.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgl4ud7sf22i">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Hallo, falls die Fragen ernst gemeint wurden, würde ich zum Anfang diesen Artikel über ...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mgiya5goac2i</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgiya5goac2i</guid>
-      <pubDate>Sat, 07 Mar 2026 23:29:57 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Hallo, falls die Fragen ernst gemeint wurden, würde ich zum Anfang diesen Artikel über die Dezentralisierung des AT-Protokolls empfehlen: www.pfrazee.com/blog/practic.... Hier auch eine Erklärung, warum auch alternative PDSe doch irgendwie von Bsky abhängig sind.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgiya5goac2i">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
