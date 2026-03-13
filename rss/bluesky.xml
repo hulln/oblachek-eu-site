@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Fri, 13 Mar 2026 22:24:41 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 22:41:45 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Ja, to je bila tudi moja prva ideja, ampak ne vem, ali zapis o repostu ostane, čeprav p...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mgxxgsb44s2n</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgxxgsb44s2n</guid>
+      <pubDate>Fri, 13 Mar 2026 22:25:42 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Ja, to je bila tudi moja prva ideja, ampak ne vem, ali zapis o repostu ostane, čeprav profil ne obstaja več. So tudi različni razlogi in načini za &quot;izginotje&quot; računa; naiven ugibek bi bil, da zapis o repostu ostane, če so računi le nedostopni (npr. nedostopen njihov strežnik PDS), ne izbrisani.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgxxgsb44s2n">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] (Na ta del z izginjajočimi reposti pa brez konkretnega linka nimam dobrega komentarja. ...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mgxvsfuec22n</link>
@@ -162,14 +170,6 @@
       <pubDate>Wed, 11 Mar 2026 10:11:26 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Another one on Firefox and Pixel, although the difference compared with an external Dell monitor wasn&apos;t very large either (0.0019).<br/><img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xfd6rbdcmbesdjrumyxdlipp/bafkreidvzgu3gtru4hr2tfka57imgxhuiab46f46kdeppmdqnfafoi6xeq" alt="Bluesky image" /><br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgrnhxkvqc26">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Za malo! :D Proti koncu je bilo par še kar obupno nerazločljivih. (Telefon; na večjem z...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mgrmrrgowk26</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgrmrrgowk26</guid>
-      <pubDate>Wed, 11 Mar 2026 09:59:01 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Za malo! :D Proti koncu je bilo par še kar obupno nerazločljivih.<br/>(Telefon; na večjem zaslonu imam 0.0019.)<br/><img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xfd6rbdcmbesdjrumyxdlipp/bafkreidvzgu3gtru4hr2tfka57imgxhuiab46f46kdeppmdqnfafoi6xeq" alt="0.0015 result, https://www.keithcirkel.co.uk/whats-my-jnd" /><br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgrmrrgowk26">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
