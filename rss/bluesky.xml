@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Fri, 13 Mar 2026 22:41:45 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 22:55:12 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Res gre za bota (neobstoječ profil, PDS eur.so – očitno leglo botov). Metapodatke o obj...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mgxyui4gm22n</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgxyui4gm22n</guid>
+      <pubDate>Fri, 13 Mar 2026 22:51:15 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Res gre za bota (neobstoječ profil, PDS eur.so – očitno leglo botov).<br/>Metapodatke o objavi lahko vidiš na pdsls.dev; specifično za tisto pasjo objavo (pomoje je bila ta mišljena? :D) tule: pdsls.dev/at://did:plc... (spodnja vrstica).<br/><br/>Tako da ni povezano s snežinkastim blokiranjem. :)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgxyui4gm22n">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Ja, to je bila tudi moja prva ideja, ampak ne vem, ali zapis o repostu ostane, čeprav p...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mgxxgsb44s2n</link>
@@ -162,14 +170,6 @@
       <pubDate>Thu, 12 Mar 2026 05:37:08 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Fokus na Ljubljano in/ali (večja) mesta in s tem ignoriranje težav centralizacije dejansko je problematično, ja.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgtomfukxk2z">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Another one on Firefox and Pixel, although the difference compared with an external Del...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mgrnhxkvqc26</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgrnhxkvqc26</guid>
-      <pubDate>Wed, 11 Mar 2026 10:11:26 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Another one on Firefox and Pixel, although the difference compared with an external Dell monitor wasn&apos;t very large either (0.0019).<br/><img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xfd6rbdcmbesdjrumyxdlipp/bafkreidvzgu3gtru4hr2tfka57imgxhuiab46f46kdeppmdqnfafoi6xeq" alt="Bluesky image" /><br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgrnhxkvqc26">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
