@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Fri, 13 Mar 2026 13:51:53 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 14:18:06 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Sretno, kolega!</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mgx45umgg22a</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgx45umgg22a</guid>
+      <pubDate>Fri, 13 Mar 2026 14:17:32 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Sretno, kolega!<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgx45umgg22a">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] [Quote] Snežinkice so. Pa verjetno niti ne vedo, da so seznami blokiranja javni. Je pa tak tip ...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mgx24d2kys2n</link>
@@ -162,14 +170,6 @@
       <pubDate>Wed, 11 Mar 2026 07:19:09 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>(Saj je nenavadno, da Idrija spada pod VE Kranj, ampak seveda je lažje kot se vprašati, zakaj je tako, in prebrati kaj o sistemu delitve na okraje/enote in upravičenosti tega (npr. revijapamfil.si/clanki/2023/...; journals.uni-lj.si/Dela/article...) vse vnaprej označevati kot prirejanje volitev.)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgrdtwdxp226">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Predlagani izpit za dodelitev volilne pravice bi obsegal tudi razlago oz. razlikovanje ...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mgrdtvr65226</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgrdtvr65226</guid>
-      <pubDate>Wed, 11 Mar 2026 07:19:09 GMT</pubDate>
-      <category>post</category>
-      <description>Predlagani izpit za dodelitev volilne pravice bi obsegal tudi razlago oz. razlikovanje med osnovnimi volilnimi pojmi, kot so npr. volilni odbor in (različne) komisije, volilna enota in okraj. Sicer prihaja do takšne zmede že pred izvedbo volitev. www.facebook.com/groups/hoted...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgrdtvr65226">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
