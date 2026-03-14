@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Sat, 14 Mar 2026 18:09:34 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Mar 2026 18:25:34 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Eh, bolj kot ne se samo igram in raziskujem, pa fascinira me dostopnost vsega. :D Ja, s...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mh22bysszc2t</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mh22bysszc2t</guid>
+      <pubDate>Sat, 14 Mar 2026 18:22:02 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Eh, bolj kot ne se samo igram in raziskujem, pa fascinira me dostopnost vsega. :D<br/>Ja, seveda, meni je ravno te dni ugasnil testni pds.oblachek.eu. Dokumentacija za vse je tudi zelo obširna.<br/>Ni pa to lasten strežnik v mastodon smislu – povzetek, kako deluje AT vs. AP: www.pfrazee.com/blog/practic...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mh22bysszc2t">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Quote] Čeprav izjava s &quot;strahom&quot; bojda temelji na nekem tiktokovskem memu, strah pred nenadno ...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mgzzd5rx722a</link>
@@ -162,14 +170,6 @@
       <pubDate>Thu, 12 Mar 2026 07:05:16 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Zanimiva nit je tole, vse njene veje.<br/>Mi se o teh stvareh doma načeloma nikoli nismo zares pogovarjali, me je pa vedno zanimalo in že od sredine OŠ spremljam slovensko tvitosfero, medije itd. Tako da res ne gre posploševati.<br/>Velja seveda tudi obratno.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgttjyjes22z">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Dodajam še, da sicer Pirati že nekaj let imajo AMA na slovenskem Redditu, zadnje leto p...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mgtta7z4y22z</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgtta7z4y22z</guid>
-      <pubDate>Thu, 12 Mar 2026 06:59:48 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Dodajam še, da sicer Pirati že nekaj let imajo AMA na slovenskem Redditu, zadnje leto pa imajo Mladi Pirati tudi svoj (za zainteresirano javnost odprt) Discord strežnik. Je pa tak format res drugačen kot to, da ti nek kvazi-vplivnež skoči z zaslona.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgtta7z4y22z">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
