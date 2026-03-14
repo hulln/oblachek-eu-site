@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Sat, 14 Mar 2026 17:55:12 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Mar 2026 18:09:34 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Quote] Čeprav izjava s &quot;strahom&quot; bojda temelji na nekem tiktokovskem memu, strah pred nenadno ...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mgzzd5rx722a</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgzzd5rx722a</guid>
+      <pubDate>Sat, 14 Mar 2026 18:04:47 GMT</pubDate>
+      <category>quote</category>
+      <description><strong>Quote post</strong><br/>Čeprav izjava s &quot;strahom&quot; bojda temelji na nekem tiktokovskem memu, strah pred nenadno usahnitvijo PDS-jev ni neupravičen.<br/>Tu je vodič, kako ne izgubiti računa, četudi strežnik, kjer gostuješ, nenapovedano ugasne: is.gd/WrzQcP<br/>(Ne velja izključno za Eurosky. Le situacija je primerna.)<br/>#ModroNebo<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgzzd5rx722a">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Hi, what kinds of data are expected to stay public, and what kinds would become private...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mgztxg3bq22s</link>
@@ -162,14 +170,6 @@
       <pubDate>Thu, 12 Mar 2026 06:59:48 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Dodajam še, da sicer Pirati že nekaj let imajo AMA na slovenskem Redditu, zadnje leto pa imajo Mladi Pirati tudi svoj (za zainteresirano javnost odprt) Discord strežnik. Je pa tak format res drugačen kot to, da ti nek kvazi-vplivnež skoči z zaslona.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgtta7z4y22z">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Tukaj imam mešane občutke. Po eni strani zelo podpiram, da se ne vdajo takšnim kvazi-vp...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mgtt3w6kck2z</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgtt3w6kck2z</guid>
-      <pubDate>Thu, 12 Mar 2026 06:57:24 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Tukaj imam mešane občutke. Po eni strani zelo podpiram, da se ne vdajo takšnim kvazi-vplivniškim kampanjam (podobno kot so Pirati obljubljali neobstoj reklamnih panojev, a so se vseeno vdali), ker to seveda ni nekaj, k čemur bi morali stremeti. Po drugi pa to, kar praviš.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgtt3w6kck2z">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
