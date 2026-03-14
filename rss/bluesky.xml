@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Sat, 14 Mar 2026 16:24:53 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Mar 2026 16:43:48 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Hi, what kinds of data are expected to stay public, and what kinds would become private...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mgztxg3bq22s</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgztxg3bq22s</guid>
+      <pubDate>Sat, 14 Mar 2026 16:28:45 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Hi, what kinds of data are expected to stay public, and what kinds would become private? From the roadmap, it sounds like private/shared data would be a new, separate limited-audience layer, rather than existing data becoming private. Is that correct? Thanks!<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgztxg3bq22s">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Quote] Kratka nitka in poskus razlage, kakšne so (in niso) posledice blokiranja na #ModroNebo....</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mgxza64j4k2n</link>
@@ -162,14 +170,6 @@
       <pubDate>Thu, 12 Mar 2026 06:57:24 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Tukaj imam mešane občutke. Po eni strani zelo podpiram, da se ne vdajo takšnim kvazi-vplivniškim kampanjam (podobno kot so Pirati obljubljali neobstoj reklamnih panojev, a so se vseeno vdali), ker to seveda ni nekaj, k čemur bi morali stremeti. Po drugi pa to, kar praviš.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgtt3w6kck2z">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Ja, ampak mislim, da tukaj ni to fokus (zagotovo pa ne v mojem komentarju). Nasploh se ...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mgtsxf2c3s2z</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgtsxf2c3s2z</guid>
-      <pubDate>Thu, 12 Mar 2026 06:54:51 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Ja, ampak mislim, da tukaj ni to fokus (zagotovo pa ne v mojem komentarju). Nasploh se preveč izpostavlja mesta oziroma premalo se govori o nujni decentralizaciji. Eno so seveda populistične puhlice, drugo pa resnična skrb za razvoj celotne države.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgtsxf2c3s2z">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
