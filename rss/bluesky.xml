@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️🏳️‍🌈
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Wed, 18 Mar 2026 20:28:45 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Mar 2026 20:50:09 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Namesto da bi se moj nabor favoritov za nedeljo ožal, se očitno širi. Ajme.</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhedub2inc2p</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhedub2inc2p</guid>
+      <pubDate>Wed, 18 Mar 2026 20:39:56 GMT</pubDate>
+      <category>post</category>
+      <description>Namesto da bi se moj nabor favoritov za nedeljo ožal, se očitno širi. Ajme.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhedub2inc2p">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Bo pa menda, kot so vedeli povedati bolje obveščeni od mene, zaradi EU regulativ do kon...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhdfi55bpk2j</link>
@@ -161,14 +169,6 @@
       <pubDate>Fri, 13 Mar 2026 22:51:15 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Res gre za bota (neobstoječ profil, PDS eur.so – očitno leglo botov).<br/>Metapodatke o objavi lahko vidiš na pdsls.dev; specifično za tisto pasjo objavo (pomoje je bila ta mišljena? :D) tule: pdsls.dev/at://did:plc... (spodnja vrstica).<br/><br/>Tako da ni povezano s snežinkastim blokiranjem. :)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgxyui4gm22n">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Ja, to je bila tudi moja prva ideja, ampak ne vem, ali zapis o repostu ostane, čeprav p...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mgxxgsb44s2n</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgxxgsb44s2n</guid>
-      <pubDate>Fri, 13 Mar 2026 22:25:42 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Ja, to je bila tudi moja prva ideja, ampak ne vem, ali zapis o repostu ostane, čeprav profil ne obstaja več. So tudi različni razlogi in načini za &quot;izginotje&quot; računa; naiven ugibek bi bil, da zapis o repostu ostane, če so računi le nedostopni (npr. nedostopen njihov strežnik PDS), ne izbrisani.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgxxgsb44s2n">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
