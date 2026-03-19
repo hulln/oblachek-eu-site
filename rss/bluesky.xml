@@ -8,8 +8,24 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️🏳️‍🌈
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Thu, 19 Mar 2026 11:59:04 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 19 Mar 2026 12:24:31 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Volilni proces bi moral biti ne le zakonit, ampak tudi dovolj jasen in transparenten, d...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhfy3kg7lk2k</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhfy3kg7lk2k</guid>
+      <pubDate>Thu, 19 Mar 2026 12:14:35 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Volilni proces bi moral biti ne le zakonit, ampak tudi dovolj jasen in transparenten, da se prepreči nepotrebne dvome in ohranja zaupanje v javnosti.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhfy3kg7lk2k">View post on Bluesky</a></description>
+    </item>
+    <item>
+      <title>[Reply] Hvala za komentar in smiseln argument (res je tudi, da je tudi ~25 km oddaljeno predčas...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhfy3jvigk2k</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhfy3jvigk2k</guid>
+      <pubDate>Thu, 19 Mar 2026 12:14:35 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Hvala za komentar in smiseln argument (res je tudi, da je tudi ~25 km oddaljeno predčasno volišče drugod že standard). Kakorkoli, ob tem bi bilo (v že tako dinamični volilni kampanji) po mojem drugače, če bi bila DVK vnaprej objavila pojasnilo za spremembo, ne le reaktivno, šele po pritožbi SDS.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhfy3jvigk2k">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Tudi če se na koncu izkaže, da je imela DVK prav, tovrstni premiki po nepotrebnem spodb...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhfngxhyzs2k</link>
@@ -153,22 +169,6 @@
       <pubDate>Mon, 16 Mar 2026 08:13:27 GMT</pubDate>
       <category>post</category>
       <description>Napeljevanja velikih/parlamentarnih strank, da so vsi glasovi za male stranke, ki jim &quot;po raziskavah ne kaže dobro&quot;, stran vrženi glasovi, ali vsaj javna simpatiziranja s tem mnenjem, so, če drugega ne, vsaj neprofesionalna.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mh5z7mbanc2s">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Eh, bolj kot ne se samo igram in raziskujem, pa fascinira me dostopnost vsega. :D Ja, s...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mh22bysszc2t</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mh22bysszc2t</guid>
-      <pubDate>Sat, 14 Mar 2026 18:22:02 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Eh, bolj kot ne se samo igram in raziskujem, pa fascinira me dostopnost vsega. :D<br/>Ja, seveda, meni je ravno te dni ugasnil testni pds.oblachek.eu. Dokumentacija za vse je tudi zelo obširna.<br/>Ni pa to lasten strežnik v mastodon smislu – povzetek, kako deluje AT vs. AP: www.pfrazee.com/blog/practic...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mh22bysszc2t">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Quote] Čeprav izjava s &quot;strahom&quot; bojda temelji na nekem tiktokovskem memu, strah pred nenadno ...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mgzzd5rx722a</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mgzzd5rx722a</guid>
-      <pubDate>Sat, 14 Mar 2026 18:04:47 GMT</pubDate>
-      <category>quote</category>
-      <description><strong>Quote post</strong><br/>Čeprav izjava s &quot;strahom&quot; bojda temelji na nekem tiktokovskem memu, strah pred nenadno usahnitvijo PDS-jev ni neupravičen.<br/>Tu je vodič, kako ne izgubiti računa, četudi strežnik, kjer gostuješ, nenapovedano ugasne: is.gd/WrzQcP<br/>(Ne velja izključno za Eurosky. Le situacija je primerna.)<br/>#ModroNebo<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mgzzd5rx722a">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
