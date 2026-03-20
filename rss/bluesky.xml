@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️🏳️‍🌈
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Fri, 20 Mar 2026 19:16:19 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 20 Mar 2026 19:42:59 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Hej, na tole ti še dolgujem odgovor. Ja, moj je bil na gostujočem VPS, ampak kolikor ve...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhjb5wzfkk27</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhjb5wzfkk27</guid>
+      <pubDate>Fri, 20 Mar 2026 19:34:58 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Hej, na tole ti še dolgujem odgovor.<br/>Ja, moj je bil na gostujočem VPS, ampak kolikor vem, ga lahko vzpostaviš tudi na lastni infrastrukturi (npr. RPi); ti bi najbrž to?<br/>Federacijo so res obljubljali (in dosegli?), a to še ni avtomatsko povezljivost z Mastodonom.<br/>A prav razumem, a misliš kaj drugega?<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhjb5wzfkk27">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] To z omejitvijo pa je samo delno res; Bsky ob tej funkciji eksplicitno dodaja, da to ne...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhj7zhqxac27</link>
@@ -161,14 +169,6 @@
       <pubDate>Tue, 17 Mar 2026 08:58:59 GMT</pubDate>
       <category>post</category>
       <description>V skupini ubogih, zatiranih espejevcev se je pojavila tale spletna stran: kdobozmagal.si<br/>(Očitno je izrazito omejena na desni mehurček.)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mham7xgyis2d">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Kako se je komurkoli zdela dobra ideja zamenjati še tistih nekaj starih, ožjih sedežev ...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mh7j3tc35k24</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mh7j3tc35k24</guid>
-      <pubDate>Mon, 16 Mar 2026 22:30:20 GMT</pubDate>
-      <category>post</category>
-      <description>Kako se je komurkoli zdela dobra ideja zamenjati še tistih nekaj starih, ožjih sedežev na kolesih BicikeLJ s temi trenutnimi, neprimerno manj udobnimi, mi ni jasno.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mh7j3tc35k24">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
