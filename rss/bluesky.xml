@@ -8,8 +8,24 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️🏳️‍🌈
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Fri, 20 Mar 2026 19:42:59 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 20 Mar 2026 19:57:08 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] (Zadeva ni moja; vir: www.reddit.com/r/Slovenia/c...)</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhjc7evo4227</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhjc7evo4227</guid>
+      <pubDate>Fri, 20 Mar 2026 19:53:40 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>(Zadeva ni moja; vir: www.reddit.com/r/Slovenia/c...)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhjc7evo4227">View post on Bluesky</a></description>
+    </item>
+    <item>
+      <title>Kje je gorivo? kje-je-gorivo.com</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhjbr7ovac27</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhjbr7ovac27</guid>
+      <pubDate>Fri, 20 Mar 2026 19:45:45 GMT</pubDate>
+      <category>post</category>
+      <description>Kje je gorivo?<br/>kje-je-gorivo.com<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhjbr7ovac27">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Hej, na tole ti še dolgujem odgovor. Ja, moj je bil na gostujočem VPS, ampak kolikor ve...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhjb5wzfkk27</link>
@@ -153,22 +169,6 @@
       <pubDate>Tue, 17 Mar 2026 20:45:09 GMT</pubDate>
       <category>post</category>
       <description>Takšnih primerkov verjetno tukaj ni prav dosti, pa vseeno.<br/>Za vse, ki boste letos spet utegnili pomisliti, da bi na volitve prinašali svoja pisala, ker z &quot;našimi&quot; se da manipulirati; Navodila za delo volilnega odbora: www.dvk-rs.si/fileadmin/us...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhbtonw4222c">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Še en kviz: kdobozmagal.si/kviz (Stran načeloma zanimiva ideja, ampak zelo očitno se je...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhawgm4xbs2c</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhawgm4xbs2c</guid>
-      <pubDate>Tue, 17 Mar 2026 12:01:40 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Še en kviz: kdobozmagal.si/kviz<br/>(Stran načeloma zanimiva ideja, ampak zelo očitno se je razširila le na eni &quot;strani&quot;. Bolj reprezentativno bi bilo, če bi jo postavili ob začetku kampanje.)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhawgm4xbs2c">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>V skupini ubogih, zatiranih espejevcev se je pojavila tale spletna stran: kdobozmagal.s...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mham7xgyis2d</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mham7xgyis2d</guid>
-      <pubDate>Tue, 17 Mar 2026 08:58:59 GMT</pubDate>
-      <category>post</category>
-      <description>V skupini ubogih, zatiranih espejevcev se je pojavila tale spletna stran: kdobozmagal.si<br/>(Očitno je izrazito omejena na desni mehurček.)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mham7xgyis2d">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
