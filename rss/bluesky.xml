@@ -8,8 +8,24 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️🏳️‍🌈
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Fri, 20 Mar 2026 20:13:41 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 20 Mar 2026 20:29:41 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Jaz ga tudi pogrešam, ja, pa zlopamtilo.si tudi</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhjdscd4hs2u</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhjdscd4hs2u</guid>
+      <pubDate>Fri, 20 Mar 2026 20:22:09 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Jaz ga tudi pogrešam, ja, pa zlopamtilo.si tudi<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhjdscd4hs2u">View post on Bluesky</a></description>
+    </item>
+    <item>
+      <title>[Reply] Tako, jaz ga sicer nimam, tako da ne morem podati info iz prve roke, so pa ljudje že po...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhjdibyluk2u</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhjdibyluk2u</guid>
+      <pubDate>Fri, 20 Mar 2026 20:16:33 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Tako, jaz ga sicer nimam, tako da ne morem podati info iz prve roke, so pa ljudje že postavljali PDS-e na njih.<br/>Glede federacije pa se seveda strinjam, ampak Bsky je na ATProto, Mastodon pa na ActivityPubu in zaenkrat je žal edini približek za interakcije npr. Bridgy :/ upajmo, da se kdaj povežeta<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhjdibyluk2u">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] (Zadeva ni moja; vir: www.reddit.com/r/Slovenia/c...)</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhjc7evo4227</link>
@@ -153,22 +169,6 @@
       <pubDate>Wed, 18 Mar 2026 09:27:32 GMT</pubDate>
       <category>post</category>
       <description>Generatorji zahtevkov v zvezi z Zakonom o dostopu do informacij javnega značaja (ZDIJZ): zdijz.si<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhd6bvqyk22j">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Verjetno se mi ne bo nikoli uspelo navaditi na tipkovnice brez številčnega dela na desn...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhczwtfjkc22</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhczwtfjkc22</guid>
-      <pubDate>Wed, 18 Mar 2026 08:09:45 GMT</pubDate>
-      <category>post</category>
-      <description>Verjetno se mi ne bo nikoli uspelo navaditi na tipkovnice brez številčnega dela na desni. #užas<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhczwtfjkc22">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Takšnih primerkov verjetno tukaj ni prav dosti, pa vseeno. Za vse, ki boste letos spet ...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhbtonw4222c</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhbtonw4222c</guid>
-      <pubDate>Tue, 17 Mar 2026 20:45:09 GMT</pubDate>
-      <category>post</category>
-      <description>Takšnih primerkov verjetno tukaj ni prav dosti, pa vseeno.<br/>Za vse, ki boste letos spet utegnili pomisliti, da bi na volitve prinašali svoja pisala, ker z &quot;našimi&quot; se da manipulirati; Navodila za delo volilnega odbora: www.dvk-rs.si/fileadmin/us...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhbtonw4222c">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
