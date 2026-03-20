@@ -8,8 +8,24 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️🏳️‍🌈
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Fri, 20 Mar 2026 18:50:30 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 20 Mar 2026 19:16:19 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] To z omejitvijo pa je samo delno res; Bsky ob tej funkciji eksplicitno dodaja, da to ne...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhj7zhqxac27</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhj7zhqxac27</guid>
+      <pubDate>Fri, 20 Mar 2026 19:14:34 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>To z omejitvijo pa je samo delno res; Bsky ob tej funkciji eksplicitno dodaja, da to ne preprečuje tretjim aplikacijam, da bi dostopale do objav nekega računa. Primer na klientu impro.social: impro.social/profile/kesm... (tudi sicer priporočam) in moj glimpsky.oblachek.eu?handle=kesma...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhj7zhqxac27">View post on Bluesky</a></description>
+    </item>
+    <item>
+      <title>[Reply] Hej, hvala za vključitev (ne vem tako veliko, se sproti učim :)). Following je kronološ...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhj7j4hfss27</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhj7j4hfss27</guid>
+      <pubDate>Fri, 20 Mar 2026 19:05:26 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Hej, hvala za vključitev (ne vem tako veliko, se sproti učim :)).<br/>Following je kronološki feed, discover pa ne (custom feed). Zato je z večjim številom sledenih tudi večja verjetnost, da česa ne vidiš. Res je sicer možno, da je bug, ampak bojazen o cenzuri je zaenkrat zelo verjetno odveč.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhj7j4hfss27">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] &quot;Znajdi se&quot; mentaliteta ni nujno slaba. Sploh ti utegne precej koristiti v nadaljnjem i...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhj6nzknpk27</link>
@@ -153,22 +169,6 @@
       <pubDate>Mon, 16 Mar 2026 22:30:20 GMT</pubDate>
       <category>post</category>
       <description>Kako se je komurkoli zdela dobra ideja zamenjati še tistih nekaj starih, ožjih sedežev na kolesih BicikeLJ s temi trenutnimi, neprimerno manj udobnimi, mi ni jasno.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mh7j3tc35k24">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Včasih je kakšen dan v seriji dni zaradi očitno ponavljajočih se glupih vzorcev dokaj g...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mh7izmy26c24</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mh7izmy26c24</guid>
-      <pubDate>Mon, 16 Mar 2026 22:29:06 GMT</pubDate>
-      <category>post</category>
-      <description>Včasih je kakšen dan v seriji dni zaradi očitno ponavljajočih se glupih vzorcev dokaj glup, nakar te na glupem bicikLJu skoraj do kosti opere dež, ampak potem po spletu okoliščin postane manj glup. Čeprav soočenje morda ni najboljši zaključek.<br/>(Na še več takih dni. #polkozarcavina, čin.)<br/>#glupigupi<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mh7izmy26c24">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] O javnomnenjskih raziskavah in njihovi moči: vezjak.com/2026/03/16/p...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mh6gxp55xs25</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mh6gxp55xs25</guid>
-      <pubDate>Mon, 16 Mar 2026 12:19:34 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>O javnomnenjskih raziskavah in njihovi moči: vezjak.com/2026/03/16/p...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mh6gxp55xs25">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
