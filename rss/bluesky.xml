@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️🏳️‍🌈
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Fri, 20 Mar 2026 21:25:03 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 20 Mar 2026 21:41:46 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Po zadnjih dveh soočenjih se je, v nasprotju z željami, nabor samo še bolj razširil.</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhjhxlovrk2u</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhjhxlovrk2u</guid>
+      <pubDate>Fri, 20 Mar 2026 21:36:41 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Po zadnjih dveh soočenjih se je, v nasprotju z željami, nabor samo še bolj razširil.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhjhxlovrk2u">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Tudi kjejegorivo.si (nimam pojma, kakšna je povezava med njima).</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhjetyfipk2u</link>
@@ -161,14 +169,6 @@
       <pubDate>Wed, 18 Mar 2026 11:36:17 GMT</pubDate>
       <category>quote</category>
       <description><strong>Quote post</strong><br/>O čudovitostih medkrajevnega avtobusnega potniškega prometa. In kraji pri belem dnevu na AP Ljubljana z zaračunavanjem dodatka za &quot;izdajo vozovnic&quot;. Ajme, res, potem se pa vozi z JPP, če se lahko.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhdfi54r4c2j">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Le pridi, dobrodošla!</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhdahq6w2s2j</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhdahq6w2s2j</guid>
-      <pubDate>Wed, 18 Mar 2026 10:06:35 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Le pridi, dobrodošla!<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhdahq6w2s2j">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
