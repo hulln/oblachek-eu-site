@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 23 Mar 2026 16:06:38 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Mar 2026 16:33:10 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Povsem razumljivo je, da bi na družbenih omrežjih kljub &quot;trajno izbrisanim profilom&quot; zn...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhqhsscb222g</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhqhsscb222g</guid>
+      <pubDate>Mon, 23 Mar 2026 16:22:39 GMT</pubDate>
+      <category>post</category>
+      <description>Povsem razumljivo je, da bi na družbenih omrežjih kljub &quot;trajno izbrisanim profilom&quot; znova magično vstalemu &quot;nepridipravu&quot; kdo tudi v resnici pokazal sredinec.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhqhsscb222g">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Volilna umetnost. #volitve2026</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhq53zlqvc27</link>
@@ -161,14 +169,6 @@
       <pubDate>Fri, 20 Mar 2026 19:53:40 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>(Zadeva ni moja; vir: www.reddit.com/r/Slovenia/c...)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhjc7evo4227">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Kje je gorivo? kje-je-gorivo.com</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhjbr7ovac27</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhjbr7ovac27</guid>
-      <pubDate>Fri, 20 Mar 2026 19:45:45 GMT</pubDate>
-      <category>post</category>
-      <description>Kje je gorivo?<br/>kje-je-gorivo.com<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhjbr7ovac27">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
