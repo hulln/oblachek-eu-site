@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 23 Mar 2026 12:51:24 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Mar 2026 13:33:14 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Volilna umetnost. #volitve2026</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhq53zlqvc27</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhq53zlqvc27</guid>
+      <pubDate>Mon, 23 Mar 2026 13:10:57 GMT</pubDate>
+      <category>post</category>
+      <description>Volilna umetnost. #volitve2026<br/><img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xfd6rbdcmbesdjrumyxdlipp/bafkreifrkcolnkbn6eenoxetbr3enmvaivtls7ww25ff6vsl5oroddoz3i" alt="Ponesrečena vizualizacija glasov za Svobodo na zemljevidu Slovenije." /><br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhq53zlqvc27">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] (Samopopravek in za jasnost: prek svojih kanalov, kakopak.)</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhptsl35ys2u</link>
@@ -161,14 +169,6 @@
       <pubDate>Fri, 20 Mar 2026 19:45:45 GMT</pubDate>
       <category>post</category>
       <description>Kje je gorivo?<br/>kje-je-gorivo.com<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhjbr7ovac27">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Hej, na tole ti še dolgujem odgovor. Ja, moj je bil na gostujočem VPS, ampak kolikor ve...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhjb5wzfkk27</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhjb5wzfkk27</guid>
-      <pubDate>Fri, 20 Mar 2026 19:34:58 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Hej, na tole ti še dolgujem odgovor.<br/>Ja, moj je bil na gostujočem VPS, ampak kolikor vem, ga lahko vzpostaviš tudi na lastni infrastrukturi (npr. RPi); ti bi najbrž to?<br/>Federacijo so res obljubljali (in dosegli?), a to še ni avtomatsko povezljivost z Mastodonom.<br/>A prav razumem, a misliš kaj drugega?<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhjb5wzfkk27">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
