@@ -8,8 +8,32 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 23 Mar 2026 10:07:45 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Mar 2026 10:33:52 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] (Samopopravek in za jasnost: prek svojih kanalov, kakopak.)</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhptsl35ys2u</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhptsl35ys2u</guid>
+      <pubDate>Mon, 23 Mar 2026 10:24:36 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>(Samopopravek in za jasnost: prek svojih kanalov, kakopak.)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhptsl35ys2u">View post on Bluesky</a></description>
+    </item>
+    <item>
+      <title>[Reply] Razumem tudi pomen in doseg taktičnega glasovanja, ampak naj bo to premišljena volja vo...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhpt2wosws2u</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhpt2wosws2u</guid>
+      <pubDate>Mon, 23 Mar 2026 10:11:23 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Razumem tudi pomen in doseg taktičnega glasovanja, ampak naj bo to premišljena volja volilcev. K temu je lahko doprinesla npr. Fronta za skupno dobro: www.facebook.com/615809172775... – in več takšnih argumentiranih pozivov si želim.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhpt2wosws2u">View post on Bluesky</a></description>
+    </item>
+    <item>
+      <title>[Reply] Jaz mu pa tu dam prav (verjetno misliva isto). Nekatere &quot;neodvisne&quot; organizacije, ki se...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhpt2wb7fc2u</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhpt2wb7fc2u</guid>
+      <pubDate>Mon, 23 Mar 2026 10:11:23 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Jaz mu pa tu dam prav (verjetno misliva isto). Nekatere &quot;neodvisne&quot; organizacije, ki se verjetno programsko precej strinjajo z Njimi, so jih, namesto da bi prek njihovih kanalov morda nagovorile koga, zelo verjetno oškodovale. Ankete pa tudi niso nedolžne, kar se medijske pozornosti tiče.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhpt2wb7fc2u">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Vse najboljše!</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhpikybpyk2u</link>
@@ -145,30 +169,6 @@
       <pubDate>Fri, 20 Mar 2026 19:34:58 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Hej, na tole ti še dolgujem odgovor.<br/>Ja, moj je bil na gostujočem VPS, ampak kolikor vem, ga lahko vzpostaviš tudi na lastni infrastrukturi (npr. RPi); ti bi najbrž to?<br/>Federacijo so res obljubljali (in dosegli?), a to še ni avtomatsko povezljivost z Mastodonom.<br/>A prav razumem, a misliš kaj drugega?<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhjb5wzfkk27">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] To z omejitvijo pa je samo delno res; Bsky ob tej funkciji eksplicitno dodaja, da to ne...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhj7zhqxac27</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhj7zhqxac27</guid>
-      <pubDate>Fri, 20 Mar 2026 19:14:34 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>To z omejitvijo pa je samo delno res; Bsky ob tej funkciji eksplicitno dodaja, da to ne preprečuje tretjim aplikacijam, da bi dostopale do objav nekega računa. Primer na klientu impro.social: impro.social/profile/kesm... (tudi sicer priporočam) in moj glimpsky.oblachek.eu?handle=kesma...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhj7zhqxac27">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Hej, hvala za vključitev (ne vem tako veliko, se sproti učim :)). Following je kronološ...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhj7j4hfss27</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhj7j4hfss27</guid>
-      <pubDate>Fri, 20 Mar 2026 19:05:26 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Hej, hvala za vključitev (ne vem tako veliko, se sproti učim :)).<br/>Following je kronološki feed, discover pa ne (custom feed). Zato je z večjim številom sledenih tudi večja verjetnost, da česa ne vidiš. Res je sicer možno, da je bug, ampak bojazen o cenzuri je zaenkrat zelo verjetno odveč.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhj7j4hfss27">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] &quot;Znajdi se&quot; mentaliteta ni nujno slaba. Sploh ti utegne precej koristiti v nadaljnjem i...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhj6nzknpk27</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhj6nzknpk27</guid>
-      <pubDate>Fri, 20 Mar 2026 18:50:17 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>&quot;Znajdi se&quot; mentaliteta ni nujno slaba. Sploh ti utegne precej koristiti v nadaljnjem izobraževanju. (Pa ne govorim o kakšnih ilegalnih načinih.)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhj6nzknpk27">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
