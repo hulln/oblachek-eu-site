@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 23 Mar 2026 23:00:10 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Mar 2026 23:25:19 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Eh, jaz že ob normalni hitrosti ne morem početi nič drugega; sprehod je verjetno maksim...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhr6m4k6bk2c</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhr6m4k6bk2c</guid>
+      <pubDate>Mon, 23 Mar 2026 23:10:31 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Eh, jaz že ob normalni hitrosti ne morem početi nič drugega; sprehod je verjetno maksimum, ki ga še lahko obvladujem sočasno.<br/>Je pa povečanje hitrosti dobra ideja, si vsaj hitreje &quot;skozi&quot;. Moram preizkusiti (sicer dvomim, da bo enako učinkovito kot branje).<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhr6m4k6bk2c">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Sočustvujem. Iz enakega razloga ne maram &quot;podcastov&quot;.</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhr5vzhgmc2c</link>
@@ -161,14 +169,6 @@
       <pubDate>Mon, 23 Mar 2026 10:11:23 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Razumem tudi pomen in doseg taktičnega glasovanja, ampak naj bo to premišljena volja volilcev. K temu je lahko doprinesla npr. Fronta za skupno dobro: www.facebook.com/615809172775... – in več takšnih argumentiranih pozivov si želim.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhpt2wosws2u">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Jaz mu pa tu dam prav (verjetno misliva isto). Nekatere &quot;neodvisne&quot; organizacije, ki se...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhpt2wb7fc2u</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhpt2wb7fc2u</guid>
-      <pubDate>Mon, 23 Mar 2026 10:11:23 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Jaz mu pa tu dam prav (verjetno misliva isto). Nekatere &quot;neodvisne&quot; organizacije, ki se verjetno programsko precej strinjajo z Njimi, so jih, namesto da bi prek njihovih kanalov morda nagovorile koga, zelo verjetno oškodovale. Ankete pa tudi niso nedolžne, kar se medijske pozornosti tiče.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhpt2wb7fc2u">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
