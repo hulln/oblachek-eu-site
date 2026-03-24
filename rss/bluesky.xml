@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Tue, 24 Mar 2026 11:31:36 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Mar 2026 11:58:50 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stanje lukenj na cestah: asfaltkje.si</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhsiobxnl22k</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhsiobxnl22k</guid>
+      <pubDate>Tue, 24 Mar 2026 11:43:21 GMT</pubDate>
+      <category>post</category>
+      <description>Stanje lukenj na cestah: asfaltkje.si<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhsiobxnl22k">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Eh, jaz že ob normalni hitrosti ne morem početi nič drugega; sprehod je verjetno maksim...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhr6m4k6bk2c</link>
@@ -161,14 +169,6 @@
       <pubDate>Mon, 23 Mar 2026 10:24:36 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>(Samopopravek in za jasnost: prek svojih kanalov, kakopak.)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhptsl35ys2u">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Razumem tudi pomen in doseg taktičnega glasovanja, ampak naj bo to premišljena volja vo...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhpt2wosws2u</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhpt2wosws2u</guid>
-      <pubDate>Mon, 23 Mar 2026 10:11:23 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Razumem tudi pomen in doseg taktičnega glasovanja, ampak naj bo to premišljena volja volilcev. K temu je lahko doprinesla npr. Fronta za skupno dobro: www.facebook.com/615809172775... – in več takšnih argumentiranih pozivov si želim.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhpt2wosws2u">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
