@@ -8,8 +8,20 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Wed, 25 Mar 2026 19:07:34 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Mar 2026 19:32:32 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zadnji takšen. Lepo je bilo, dokler je trajalo. #re:do</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhvtaut22c22</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhvtaut22c22</guid>
+      <pubDate>Wed, 25 Mar 2026 19:30:41 GMT</pubDate>
+      <category>post</category>
+      <description>Zadnji takšen. Lepo je bilo, dokler je trajalo.<br/>#re:do<br/><img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xfd6rbdcmbesdjrumyxdlipp/bafkreig5m23py7m6ujice4u52a7p3oumlp6pxykf4rnchcishgysgxwe7y" alt="re:do
+
+Tvoj račun
+
+Hej, tvoje plačilo je bilo uspešno. Račun za storitve v višini 0.00 € smo shranili v aplikaciji. Najdeš ga tukaj ali v svojem profilu pod »plačila &gt; plačila in računi«." /><br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhvtaut22c22">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Ja, recimo. Oziroma, še bolje, na parceli, kjer imaš svojo dejavnost, lahko postaviš re...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhutcs4b7226</link>
@@ -161,14 +173,6 @@
       <pubDate>Mon, 23 Mar 2026 19:07:15 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Navodila so tudi javno dostopna: www.dvk-rs.si/fileadmin/us...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhqqz4zy2k2c">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Fotografiranje samo po sebi sicer ni bilo prepovedano: &quot;Člani VO in zaupniki lahko po p...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhqqvsgstc2c</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhqqvsgstc2c</guid>
-      <pubDate>Mon, 23 Mar 2026 19:05:23 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Fotografiranje samo po sebi sicer ni bilo prepovedano:<br/>&quot;Člani VO in zaupniki lahko po podpisu zapisnika o delu VO izid glasovanja fotografirajo ali prepišejo. Člani VO ne smejo sporočati izida glasovanja, dokler ni podpisan zapisnik o delu VO.&quot;<br/><br/>Iz navodil za delo VO (volilnega odbora).<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhqqvsgstc2c">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
