@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Thu, 26 Mar 2026 15:44:27 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Mar 2026 16:15:09 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Ne.</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhxxuc6co22u</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhxxuc6co22u</guid>
+      <pubDate>Thu, 26 Mar 2026 15:58:27 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Ne.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhxxuc6co22u">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Tako nekako, ja. Meji na nadležno deževje.</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhxihnqu2s2e</link>
@@ -165,14 +173,6 @@ Hej, tvoje plačilo je bilo uspešno. Račun za storitve v višini 0.00 € smo 
       <pubDate>Mon, 23 Mar 2026 19:30:57 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Za lokalne je pri nas volilno gradivo odnesel nekdo drug, tako da ne vem, koliko gneče je bilo, ampak za tole včeraj pa je znalo kar trajati. Približno pol ure vožnje do OVK, pa še čakanje tam, če se komu kaj zakomplicira. Tako da hitro zna miniti tudi nekaj ur.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhqsdjcjgs2c">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] V bistvu je bilo za lokalne volitve 2022 zelo podobno:</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhqrgggtf22c</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhqrgggtf22c</guid>
-      <pubDate>Mon, 23 Mar 2026 19:14:41 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>V bistvu je bilo za lokalne volitve 2022 zelo podobno:<br/><img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xfd6rbdcmbesdjrumyxdlipp/bafkreihbrohvkayzkmmhbxm6syvyt4xjvqaxeocwx64nyrleqrg7qvabr4" alt="Izsek iz navodil za delo VO na lokalnih volitvah 2022" /><br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhqrgggtf22c">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
