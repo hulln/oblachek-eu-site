@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Thu, 26 Mar 2026 11:06:39 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Mar 2026 11:33:29 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Tako nekako, ja. Meji na nadležno deževje.</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhxihnqu2s2e</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhxihnqu2s2e</guid>
+      <pubDate>Thu, 26 Mar 2026 11:22:57 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Tako nekako, ja. Meji na nadležno deževje.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhxihnqu2s2e">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>root(sovražim) discourse(sovražim, Ajme) punct(Ajme, ,) obl(sovražim, dna) case(dna, iz...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhxcsx5wzc24</link>
@@ -165,14 +173,6 @@ Hej, tvoje plačilo je bilo uspešno. Račun za storitve v višini 0.00 € smo 
       <pubDate>Mon, 23 Mar 2026 19:14:41 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>V bistvu je bilo za lokalne volitve 2022 zelo podobno:<br/><img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xfd6rbdcmbesdjrumyxdlipp/bafkreihbrohvkayzkmmhbxm6syvyt4xjvqaxeocwx64nyrleqrg7qvabr4" alt="Izsek iz navodil za delo VO na lokalnih volitvah 2022" /><br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhqrgggtf22c">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Nam so tokrat na inštruktaži eksplicitno rekli, da se rezultat sme poročati, ampak šele...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhqr7xlh322c</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhqr7xlh322c</guid>
-      <pubDate>Mon, 23 Mar 2026 19:11:04 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Nam so tokrat na inštruktaži eksplicitno rekli, da se rezultat sme poročati, ampak šele po podpisanju zapisnika. Kar je lahko zelo hitro (mi smo bili konec v cca. pol ure).<br/>Meni se ne zdi tako neumno, ker pač takrat že visi na oglasni deski, tako da lahko vidi (in pošlje dalje) praktično kdorkoli.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhqr7xlh322c">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
