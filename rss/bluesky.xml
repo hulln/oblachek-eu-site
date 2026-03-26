@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Thu, 26 Mar 2026 19:38:06 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Mar 2026 19:58:57 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Hvala! Saj sem ravno v procesu premika, ker bodo re:do ukinili in grem na bob (zelo pod...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhyf2a5eak25</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhyf2a5eak25</guid>
+      <pubDate>Thu, 26 Mar 2026 19:54:25 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Hvala! Saj sem ravno v procesu premika, ker bodo re:do ukinili in grem na bob (zelo podobna ponudba tej na HoT). Ampak ker smo bili re:do uporabniki očitno predplačniki, ne naročniki, mi je nekako uspelo precej zakomplicirati prehod. Če bo vse po sreči, v torek dobim pogodbo.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhyf2a5eak25">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Po 12+ letih imam, sicer po sili razmer in začasno, spet predplačniške mobilne storitve...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhy7noz7jk25</link>
@@ -165,14 +173,6 @@ Hej, tvoje plačilo je bilo uspešno. Račun za storitve v višini 0.00 € smo 
       <pubDate>Mon, 23 Mar 2026 19:49:30 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Bi se mi pa zdelo smiselno, da VO dobi dodatno odgovornost: po uradni objavi rezultatov na DVK preveriti, ali sovpadajo s tistimi, ki jih je razobesil VO. Ne ker bi šlo za dvom o delu OVK/DVK, ampak kot dodatni faktor kontrole, ker to dejansko vse vnašajo na roke in hitro pride do nenamerne napake.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhqteov5yc2c">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Seveda, ampak če je vse ok (in seveda bi moralo biti, ker česa drugega razen primerjati...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhqteoh6ps2c</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhqteoh6ps2c</guid>
-      <pubDate>Mon, 23 Mar 2026 19:49:30 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Seveda, ampak če je vse ok (in seveda bi moralo biti, ker česa drugega razen primerjati številke na oglasnih deskah in na spletni strani DVK za posamezna volišča tako ali tako ne morejo storiti), ne morejo nič. Način, na katerega to počnejo, pa je načeloma legalen.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhqteoh6ps2c">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
