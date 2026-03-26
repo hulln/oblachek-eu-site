@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Thu, 26 Mar 2026 09:37:06 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Mar 2026 10:07:28 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>root(sovražim) discourse(sovražim, Ajme) punct(Ajme, ,) obl(sovražim, dna) case(dna, iz...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhxcsx5wzc24</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhxcsx5wzc24</guid>
+      <pubDate>Thu, 26 Mar 2026 09:41:53 GMT</pubDate>
+      <category>post</category>
+      <description>root(sovražim)<br/><br/>discourse(sovražim, Ajme)<br/>punct(Ajme, ,)<br/><br/>obl(sovražim, dna)<br/>case(dna, iz)<br/>nmod(dna, duše)<br/><br/>obj(sovražim, naloge)<br/>amod(naloge, mukotrpne)<br/>conj(mukotrpne, dolgotrajne)<br/>cc(dolgotrajne, in)<br/>amod(naloge, anotatorske)<br/><br/>punct(sovražim, .)<br/><br/>#UDveselje<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhxcsx5wzc24">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Zadnji takšen. Lepo je bilo, dokler je trajalo. #re:do</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhvtaut22c22</link>
@@ -165,14 +173,6 @@ Hej, tvoje plačilo je bilo uspešno. Račun za storitve v višini 0.00 € smo 
       <pubDate>Mon, 23 Mar 2026 19:11:04 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Nam so tokrat na inštruktaži eksplicitno rekli, da se rezultat sme poročati, ampak šele po podpisanju zapisnika. Kar je lahko zelo hitro (mi smo bili konec v cca. pol ure).<br/>Meni se ne zdi tako neumno, ker pač takrat že visi na oglasni deski, tako da lahko vidi (in pošlje dalje) praktično kdorkoli.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhqr7xlh322c">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Navodila so tudi javno dostopna: www.dvk-rs.si/fileadmin/us...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhqqz4zy2k2c</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhqqz4zy2k2c</guid>
-      <pubDate>Mon, 23 Mar 2026 19:07:15 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Navodila so tudi javno dostopna: www.dvk-rs.si/fileadmin/us...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhqqz4zy2k2c">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
