@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Thu, 26 Mar 2026 23:46:58 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Mar 2026 00:28:08 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(Mobilne) številke so (in morajo biti) med operaterji (izvajalci storitev) prenesene v ...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mhysrl7rfs2d</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhysrl7rfs2d</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:07 GMT</pubDate>
+      <category>post</category>
+      <description>(Mobilne) številke so (in morajo biti) med operaterji (izvajalci storitev) prenesene v roku enega delovnega dne. Prenos se izvede ponoči, med polnočjo in 4. uro, klicne storitve pa morajo popolno delovati do 7. ure zjutraj.<br/>pisrs.si/pregledPredp...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhysrl7rfs2d">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] V bistvu zdaj vidim kontradiktornost prve izjave. Formalno tudi leta na re:do očitno ni...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhyfhia5uk25</link>
@@ -165,14 +173,6 @@ Hej, tvoje plačilo je bilo uspešno. Račun za storitve v višini 0.00 € smo 
       <pubDate>Mon, 23 Mar 2026 20:05:38 GMT</pubDate>
       <category>quote</category>
       <description><strong>Quote post</strong><br/>V tej zanimivi niti se – verjamem sicer, da v dobri veri in želji po ohranjanju zaupanja vrednega volilnega procesa – pojavlja nekaj prenagljenih trditev.<br/><br/>tl;dr: Volilne rezultate je dovoljeno slikati, zaupniki strank so lahko prisotni + osebno znanim volilcem ni treba pokazati osebnega dokumenta.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhqubjk4ss2c">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] To pa dejansko ne vem, ali kje piše; na prvo žogo se tudi meni seveda zdi sporno, ampak...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhqtzwbs6k2c</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhqtzwbs6k2c</guid>
-      <pubDate>Mon, 23 Mar 2026 20:01:23 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>To pa dejansko ne vem, ali kje piše; na prvo žogo se tudi meni seveda zdi sporno, ampak glede na to da zaupniki smejo prisostvovati delu VO, ga nadzorovati in opozarjati na morebitne nepravilnosti ves čas, to zna pomeniti tudi, da lahko vidijo vse; od volilnega imenika, kazanja osebnih, statistike …<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhqtzwbs6k2c">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
