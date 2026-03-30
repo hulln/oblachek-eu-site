@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 30 Mar 2026 18:03:57 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 30 Mar 2026 18:35:05 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Nimam pojma, iskreno, jaz se hočem zraven preriniti kot študent in tudi ne poznam zares...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3micbkymcnc2n</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3micbkymcnc2n</guid>
+      <pubDate>Mon, 30 Mar 2026 18:18:50 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Nimam pojma, iskreno, jaz se hočem zraven preriniti kot študent in tudi ne poznam zares situacije.<br/>Sicer pa so zadnja leta ti pozivi kar stalnica, od prej pa res ne poznam stanja za primerjavo.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3micbkymcnc2n">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Odprt je Javni poziv za vpis v register strokovnjakov NAKVIS. Po novem je poziv stalno ...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mic22jlfns2o</link>
@@ -165,14 +173,6 @@ Hej, tvoje plačilo je bilo uspešno. Račun za storitve v višini 0.00 € smo 
       <pubDate>Mon, 23 Mar 2026 22:36:58 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>(Verjetno in upam, da ne veliko, ker vseeno verjamem, da znajo razmišljati. Ampak me res zanima, če se I8M kdaj vpraša, koliko škode naredi s to svojo histerijo.)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhr4q5gt6s2c">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Ja. Meni gre I8M izjemno na živce, pa se v osnovi strinjam s tem, za kar si prizadevajo...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhr4q4y2js2c</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhr4q4y2js2c</guid>
-      <pubDate>Mon, 23 Mar 2026 22:36:58 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Ja. Meni gre I8M izjemno na živce, pa se v osnovi strinjam s tem, za kar si prizadevajo (oni in leve stranke). Njihov stil komunikacije je grozen in populističen; niso objektivni, kot se želijo prikazati navzven; prevečkrat čisto odveč dramatizirajo … Me zanima, koliko volilcev ravno I8M odvrne.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhr4q4y2js2c">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
