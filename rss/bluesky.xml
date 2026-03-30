@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 30 Mar 2026 22:12:25 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 30 Mar 2026 22:28:28 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Probably unpopular opinion but private accounts are really not needed here.</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3micormfrtc2n</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3micormfrtc2n</guid>
+      <pubDate>Mon, 30 Mar 2026 22:15:10 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Probably unpopular opinion but private accounts are really not needed here.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3micormfrtc2n">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Če niso vsi dobili glasovnic, no!</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3micgips53s2n</link>
@@ -165,14 +173,6 @@ Hej, tvoje plačilo je bilo uspešno. Račun za storitve v višini 0.00 € smo 
       <pubDate>Mon, 23 Mar 2026 23:10:31 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Eh, jaz že ob normalni hitrosti ne morem početi nič drugega; sprehod je verjetno maksimum, ki ga še lahko obvladujem sočasno.<br/>Je pa povečanje hitrosti dobra ideja, si vsaj hitreje &quot;skozi&quot;. Moram preizkusiti (sicer dvomim, da bo enako učinkovito kot branje).<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhr6m4k6bk2c">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Sočustvujem. Iz enakega razloga ne maram &quot;podcastov&quot;.</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhr5vzhgmc2c</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhr5vzhgmc2c</guid>
-      <pubDate>Mon, 23 Mar 2026 22:58:09 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Sočustvujem. Iz enakega razloga ne maram &quot;podcastov&quot;.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhr5vzhgmc2c">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
