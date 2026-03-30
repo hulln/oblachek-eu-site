@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 30 Mar 2026 22:28:28 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 30 Mar 2026 22:49:20 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] &quot;Unpopular&quot; isn’t the same as &quot;meaningless&quot;. This is an open protocol, not a closed gar...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3micqclxqh22n</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3micqclxqh22n</guid>
+      <pubDate>Mon, 30 Mar 2026 22:42:34 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>&quot;Unpopular&quot; isn’t the same as &quot;meaningless&quot;. This is an open protocol, not a closed garden. Public data is part of the deal, and it should stay that way.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3micqclxqh22n">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Probably unpopular opinion but private accounts are really not needed here.</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3micormfrtc2n</link>
@@ -165,14 +173,6 @@ Hej, tvoje plačilo je bilo uspešno. Račun za storitve v višini 0.00 € smo 
       <pubDate>Tue, 24 Mar 2026 11:43:21 GMT</pubDate>
       <category>post</category>
       <description>Stanje lukenj na cestah: asfaltkje.si<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhsiobxnl22k">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Eh, jaz že ob normalni hitrosti ne morem početi nič drugega; sprehod je verjetno maksim...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhr6m4k6bk2c</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhr6m4k6bk2c</guid>
-      <pubDate>Mon, 23 Mar 2026 23:10:31 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Eh, jaz že ob normalni hitrosti ne morem početi nič drugega; sprehod je verjetno maksimum, ki ga še lahko obvladujem sočasno.<br/>Je pa povečanje hitrosti dobra ideja, si vsaj hitreje &quot;skozi&quot;. Moram preizkusiti (sicer dvomim, da bo enako učinkovito kot branje).<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhr6m4k6bk2c">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
