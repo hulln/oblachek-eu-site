@@ -8,8 +8,24 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 30 Mar 2026 23:12:52 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 30 Mar 2026 23:29:04 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Vaflji 2.0, tokrat brez vafljev.</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3micsgruvs22n</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3micsgruvs22n</guid>
+      <pubDate>Mon, 30 Mar 2026 23:20:42 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Vaflji 2.0, tokrat brez vafljev.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3micsgruvs22n">View post on Bluesky</a></description>
+    </item>
+    <item>
+      <title>[Reply] From what I got, private profiles as known from, for example, Twitter are pretty much a...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mics3dlnpk2n</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mics3dlnpk2n</guid>
+      <pubDate>Mon, 30 Mar 2026 23:14:18 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>From what I got, private profiles as known from, for example, Twitter are pretty much against the original idea of this network. And the infrastructure would need major changes to support them in that form.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mics3dlnpk2n">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Objaviš komentar, da privatni računi tukaj res niso potrebni, in nemudoma te blokira gr...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3micrwlsnv22n</link>
@@ -153,26 +169,6 @@
       <pubDate>Thu, 26 Mar 2026 09:41:53 GMT</pubDate>
       <category>post</category>
       <description>root(sovražim)<br/><br/>discourse(sovražim, Ajme)<br/>punct(Ajme, ,)<br/><br/>obl(sovražim, dna)<br/>case(dna, iz)<br/>nmod(dna, duše)<br/><br/>obj(sovražim, naloge)<br/>amod(naloge, mukotrpne)<br/>conj(mukotrpne, dolgotrajne)<br/>cc(dolgotrajne, in)<br/>amod(naloge, anotatorske)<br/><br/>punct(sovražim, .)<br/><br/>#UDveselje<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhxcsx5wzc24">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Zadnji takšen. Lepo je bilo, dokler je trajalo. #re:do</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhvtaut22c22</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhvtaut22c22</guid>
-      <pubDate>Wed, 25 Mar 2026 19:30:41 GMT</pubDate>
-      <category>post</category>
-      <description>Zadnji takšen. Lepo je bilo, dokler je trajalo.<br/>#re:do<br/><img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xfd6rbdcmbesdjrumyxdlipp/bafkreig5m23py7m6ujice4u52a7p3oumlp6pxykf4rnchcishgysgxwe7y" alt="re:do
-
-Tvoj račun
-
-Hej, tvoje plačilo je bilo uspešno. Račun za storitve v višini 0.00 € smo shranili v aplikaciji. Najdeš ga tukaj ali v svojem profilu pod »plačila &gt; plačila in računi«." /><br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhvtaut22c22">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Ja, recimo. Oziroma, še bolje, na parceli, kjer imaš svojo dejavnost, lahko postaviš re...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhutcs4b7226</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhutcs4b7226</guid>
-      <pubDate>Wed, 25 Mar 2026 09:59:06 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Ja, recimo. Oziroma, še bolje, na parceli, kjer imaš svojo dejavnost, lahko postaviš reklamo zanjo, sicer pa ne.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhutcs4b7226">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
