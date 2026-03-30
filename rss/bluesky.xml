@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 30 Mar 2026 09:09:22 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 30 Mar 2026 09:47:16 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Need help deciding between UK and US English? @stoat.chat lets you choose. 😆</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mibdfgzzec2w</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mibdfgzzec2w</guid>
+      <pubDate>Mon, 30 Mar 2026 09:18:51 GMT</pubDate>
+      <category>post</category>
+      <description>Need help deciding between UK and US English? @stoat.chat lets you choose. 😆<br/><img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xfd6rbdcmbesdjrumyxdlipp/bafkreigqu77oysogvnquvezxxgfeff3nupvfrqpzkddqjy6ydtptl3ffaq" alt="Stoat web client language selection showing UK English (traditional) and US English (simplified)." /><br/><a href="https://bsky.app/profile/oblachek.eu/post/3mibdfgzzec2w">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>(Mobilne) številke so (in morajo biti) med operaterji (izvajalci storitev) prenesene v ...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mhysrl7rfs2d</link>
@@ -165,14 +173,6 @@ Hej, tvoje plačilo je bilo uspešno. Račun za storitve v višini 0.00 € smo 
       <pubDate>Mon, 23 Mar 2026 20:20:28 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Lahko se do neke mere uporabi integrirano iskanje, ampak ja.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhqv423d5s2c">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Quote] V tej zanimivi niti se – verjamem sicer, da v dobri veri in želji po ohranjanju zaupanj...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhqubjk4ss2c</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhqubjk4ss2c</guid>
-      <pubDate>Mon, 23 Mar 2026 20:05:38 GMT</pubDate>
-      <category>quote</category>
-      <description><strong>Quote post</strong><br/>V tej zanimivi niti se – verjamem sicer, da v dobri veri in želji po ohranjanju zaupanja vrednega volilnega procesa – pojavlja nekaj prenagljenih trditev.<br/><br/>tl;dr: Volilne rezultate je dovoljeno slikati, zaupniki strank so lahko prisotni + osebno znanim volilcem ni treba pokazati osebnega dokumenta.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhqubjk4ss2c">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
