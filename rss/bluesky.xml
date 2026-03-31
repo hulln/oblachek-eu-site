@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️🏳️‍🌈
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Tue, 31 Mar 2026 01:54:54 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 31 Mar 2026 03:05:45 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Hi, I just hope you don&apos;t get too enthusiastic about this. Some private/permissioned da...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mid5izsxqk25</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mid5izsxqk25</guid>
+      <pubDate>Tue, 31 Mar 2026 02:38:49 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Hi, I just hope you don&apos;t get too enthusiastic about this. Some private/permissioned data, fine, but standard locked profiles would mean drifting away away from the core idea of a public, connected, interoperable network.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mid5izsxqk25">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Vaflji 2.0, tokrat brez vafljev.</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3micsgruvs22n</link>
@@ -161,14 +169,6 @@
       <pubDate>Thu, 26 Mar 2026 11:22:57 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Tako nekako, ja. Meji na nadležno deževje.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhxihnqu2s2e">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>root(sovražim) discourse(sovražim, Ajme) punct(Ajme, ,) obl(sovražim, dna) case(dna, iz...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhxcsx5wzc24</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhxcsx5wzc24</guid>
-      <pubDate>Thu, 26 Mar 2026 09:41:53 GMT</pubDate>
-      <category>post</category>
-      <description>root(sovražim)<br/><br/>discourse(sovražim, Ajme)<br/>punct(Ajme, ,)<br/><br/>obl(sovražim, dna)<br/>case(dna, iz)<br/>nmod(dna, duše)<br/><br/>obj(sovražim, naloge)<br/>amod(naloge, mukotrpne)<br/>conj(mukotrpne, dolgotrajne)<br/>cc(dolgotrajne, in)<br/>amod(naloge, anotatorske)<br/><br/>punct(sovražim, .)<br/><br/>#UDveselje<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhxcsx5wzc24">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
