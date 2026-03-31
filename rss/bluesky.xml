@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️🏳️‍🌈
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Tue, 31 Mar 2026 12:20:57 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 31 Mar 2026 12:48:27 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] I know and fully support Blacksky, I think it&apos;s great that parallel networks are being ...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mie6c6k3jc2l</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mie6c6k3jc2l</guid>
+      <pubDate>Tue, 31 Mar 2026 12:25:32 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>I know and fully support Blacksky, I think it&apos;s great that parallel networks are being created and widely spread! Even the people behind ATProto/Bluesky have expressed the wish for a more decentralised ecosystem with more alternatives to Bluesky.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mie6c6k3jc2l">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] I wasn&apos;t saying DMs are public. I was answering your question; I&apos;d have been fine with ...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mie5wxeqfs2l</link>
@@ -161,14 +169,6 @@
       <pubDate>Mon, 30 Mar 2026 18:18:50 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Nimam pojma, iskreno, jaz se hočem zraven preriniti kot študent in tudi ne poznam zares situacije.<br/>Sicer pa so zadnja leta ti pozivi kar stalnica, od prej pa res ne poznam stanja za primerjavo.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3micbkymcnc2n">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Odprt je Javni poziv za vpis v register strokovnjakov NAKVIS. Po novem je poziv stalno ...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mic22jlfns2o</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mic22jlfns2o</guid>
-      <pubDate>Mon, 30 Mar 2026 16:04:21 GMT</pubDate>
-      <category>post</category>
-      <description>Odprt je Javni poziv za vpis v register strokovnjakov NAKVIS.<br/>Po novem je poziv stalno odprt, brez posebnega roka.<br/>#idemo<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mic22jlfns2o">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
