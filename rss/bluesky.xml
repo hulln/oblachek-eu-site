@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️🏳️‍🌈
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Tue, 31 Mar 2026 11:19:58 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 31 Mar 2026 11:46:57 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] That&apos;s a fair point, thank you. However, I still don&apos;t think it&apos;s the same. The so-call...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mie3fitfrk2r</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mie3fitfrk2r</guid>
+      <pubDate>Tue, 31 Mar 2026 11:33:42 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>That&apos;s a fair point, thank you.<br/>However, I still don&apos;t think it&apos;s the same. The so-called &quot;AI features&quot; are an added layer while private accounts would change the visibility and connectedness of the network itself.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mie3fitfrk2r">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Ja, saj se res ne sekiram. Pa še Jay mi je vščkala tisto zloglasno objavo, hehe.</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3midpnyka222r</link>
@@ -161,14 +169,6 @@
       <pubDate>Mon, 30 Mar 2026 09:18:51 GMT</pubDate>
       <category>post</category>
       <description>Need help deciding between UK and US English? @stoat.chat lets you choose. 😆<br/><img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xfd6rbdcmbesdjrumyxdlipp/bafkreigqu77oysogvnquvezxxgfeff3nupvfrqpzkddqjy6ydtptl3ffaq" alt="Stoat web client language selection showing UK English (traditional) and US English (simplified)." /><br/><a href="https://bsky.app/profile/oblachek.eu/post/3mibdfgzzec2w">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>(Mobilne) številke so (in morajo biti) med operaterji (izvajalci storitev) prenesene v ...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mhysrl7rfs2d</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mhysrl7rfs2d</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:07 GMT</pubDate>
-      <category>post</category>
-      <description>(Mobilne) številke so (in morajo biti) med operaterji (izvajalci storitev) prenesene v roku enega delovnega dne. Prenos se izvede ponoči, med polnočjo in 4. uro, klicne storitve pa morajo popolno delovati do 7. ure zjutraj.<br/>pisrs.si/pregledPredp...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mhysrl7rfs2d">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
