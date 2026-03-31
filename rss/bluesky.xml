@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️🏳️‍🌈
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Tue, 31 Mar 2026 11:46:57 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 31 Mar 2026 12:20:57 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] I wasn&apos;t saying DMs are public. I was answering your question; I&apos;d have been fine with ...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mie5wxeqfs2l</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mie5wxeqfs2l</guid>
+      <pubDate>Tue, 31 Mar 2026 12:19:16 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>I wasn&apos;t saying DMs are public. I was answering your question; I&apos;d have been fine with a public-first model where &quot;direct&quot; didn&apos;t automatically mean &quot;private&quot;, if that had been clear from the start. Also, DMs weren&apos;t even there from the beginning.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mie5wxeqfs2l">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] That&apos;s a fair point, thank you. However, I still don&apos;t think it&apos;s the same. The so-call...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mie3fitfrk2r</link>
@@ -161,14 +169,6 @@
       <pubDate>Mon, 30 Mar 2026 16:04:21 GMT</pubDate>
       <category>post</category>
       <description>Odprt je Javni poziv za vpis v register strokovnjakov NAKVIS.<br/>Po novem je poziv stalno odprt, brez posebnega roka.<br/>#idemo<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mic22jlfns2o">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Need help deciding between UK and US English? @stoat.chat lets you choose. 😆</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mibdfgzzec2w</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mibdfgzzec2w</guid>
-      <pubDate>Mon, 30 Mar 2026 09:18:51 GMT</pubDate>
-      <category>post</category>
-      <description>Need help deciding between UK and US English? @stoat.chat lets you choose. 😆<br/><img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xfd6rbdcmbesdjrumyxdlipp/bafkreigqu77oysogvnquvezxxgfeff3nupvfrqpzkddqjy6ydtptl3ffaq" alt="Stoat web client language selection showing UK English (traditional) and US English (simplified)." /><br/><a href="https://bsky.app/profile/oblachek.eu/post/3mibdfgzzec2w">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
