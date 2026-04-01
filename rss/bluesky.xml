@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️🏳️‍🌈
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Wed, 01 Apr 2026 06:06:06 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 01 Apr 2026 06:50:52 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Yes, pragmatically, private DMs and private accounts may be useful to many. Yes, becaus...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mig3fe7mk22y</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mig3fe7mk22y</guid>
+      <pubDate>Wed, 01 Apr 2026 06:38:57 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Yes, pragmatically, private DMs and private accounts may be useful to many.<br/><br/>Yes, because I was fine with Bluesky having no DMs at all; there are other services for private conversations (some being developed even on ATproto). I always saw Bluesky as public-first, which made it so appealing to me.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mig3fe7mk22y">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] (S študentske perspektive: ta dokumentacija bi morala biti obvezno branje za vse, na vs...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mieeqjpd6226</link>
@@ -161,14 +169,6 @@
       <pubDate>Mon, 30 Mar 2026 22:53:16 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Bluesky/ATProto started with open, decentralised public conversation as the core idea. Private/group-private content came later as separate roadmap work. In my opinion, that openness is what makes public networks valuable; connected, discoverable, interoperable, and easier to build on.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3micqvpwwkk2n">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] &quot;Unpopular&quot; isn’t the same as &quot;meaningless&quot;. This is an open protocol, not a closed gar...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3micqclxqh22n</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3micqclxqh22n</guid>
-      <pubDate>Mon, 30 Mar 2026 22:42:34 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>&quot;Unpopular&quot; isn’t the same as &quot;meaningless&quot;. This is an open protocol, not a closed garden. Public data is part of the deal, and it should stay that way.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3micqclxqh22n">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
