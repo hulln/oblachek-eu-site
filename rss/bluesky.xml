@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️🏳️‍🌈
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Wed, 01 Apr 2026 13:52:58 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 01 Apr 2026 14:37:00 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] JA! 😀</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3migtvhue7223</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3migtvhue7223</guid>
+      <pubDate>Wed, 01 Apr 2026 13:57:28 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>JA! 😀<br/><a href="https://bsky.app/profile/oblachek.eu/post/3migtvhue7223">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Po skoraj 10 letih spet na 14-ki v Savlje. Očitno postaje na poti, dasiravno ne po vrst...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3migtlctd6s23</link>
@@ -161,14 +169,6 @@
       <pubDate>Mon, 30 Mar 2026 23:08:58 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Okay, fair, the ambiguity got me there. :D<br/><a href="https://bsky.app/profile/oblachek.eu/post/3micrrse65c2n">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Wanted doesn&apos;t equal needed. If they were essential, they would have been here from the...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3micriewa7s2n</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3micriewa7s2n</guid>
-      <pubDate>Mon, 30 Mar 2026 23:03:42 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Wanted doesn&apos;t equal needed. If they were essential, they would have been here from the start.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3micriewa7s2n">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
