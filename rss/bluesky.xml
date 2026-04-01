@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️🏳️‍🌈
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Wed, 01 Apr 2026 13:10:02 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 01 Apr 2026 13:52:58 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Po skoraj 10 letih spet na 14-ki v Savlje. Očitno postaje na poti, dasiravno ne po vrst...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3migtlctd6s23</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3migtlctd6s23</guid>
+      <pubDate>Wed, 01 Apr 2026 13:51:47 GMT</pubDate>
+      <category>post</category>
+      <description>Po skoraj 10 letih spet na 14-ki v Savlje. Očitno postaje na poti, dasiravno ne po vrsti, še poznam.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3migtlctd6s23">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Yes, pragmatically, private DMs and private accounts may be useful to many. Yes, becaus...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mig3fe7mk22y</link>
@@ -161,14 +169,6 @@
       <pubDate>Mon, 30 Mar 2026 23:03:42 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Wanted doesn&apos;t equal needed. If they were essential, they would have been here from the start.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3micriewa7s2n">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Bluesky/ATProto started with open, decentralised public conversation as the core idea. ...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3micqvpwwkk2n</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3micqvpwwkk2n</guid>
-      <pubDate>Mon, 30 Mar 2026 22:53:16 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Bluesky/ATProto started with open, decentralised public conversation as the core idea. Private/group-private content came later as separate roadmap work. In my opinion, that openness is what makes public networks valuable; connected, discoverable, interoperable, and easier to build on.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3micqvpwwkk2n">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
