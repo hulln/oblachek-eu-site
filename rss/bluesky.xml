@@ -8,8 +8,24 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Tue, 07 Apr 2026 21:17:39 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 07 Apr 2026 21:45:39 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] My first suggestion, though: maybe I&apos;m just missing it, but if Bluesky mutuals/followin...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3miwqtvskxc2e</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3miwqtvskxc2e</guid>
+      <pubDate>Tue, 07 Apr 2026 21:45:29 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>My first suggestion, though: maybe I&apos;m just missing it, but if Bluesky mutuals/followings are already there and just hidden somewhere under a random suggested section on the main page, it&apos;s not very intuitive. A searchable list of your Bluesky people already registered on Grain would be great.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3miwqtvskxc2e">View post on Bluesky</a></description>
+    </item>
+    <item>
+      <title>@grain.social appears to be exactly what I was looking for: an ATProto Instagram altern...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3miwqtvk3hs2e</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3miwqtvk3hs2e</guid>
+      <pubDate>Tue, 07 Apr 2026 21:45:29 GMT</pubDate>
+      <category>post</category>
+      <description>@grain.social appears to be exactly what I was looking for: an ATProto Instagram alternative with independent follow stats, where photos don&apos;t show on your Bluesky profile and vice versa. It&apos;s missing some IG features, of course, but it really gives old Instagram vibes.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3miwqtvk3hs2e">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>@grain.social zaenkrat izgleda kot najboljši instagramski približek na ATProto. Kar mi ...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3miw26iiq7225</link>
@@ -153,22 +169,6 @@
       <pubDate>Tue, 31 Mar 2026 11:33:42 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>That&apos;s a fair point, thank you.<br/>However, I still don&apos;t think it&apos;s the same. The so-called &quot;AI features&quot; are an added layer while private accounts would change the visibility and connectedness of the network itself.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mie3fitfrk2r">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Ja, saj se res ne sekiram. Pa še Jay mi je vščkala tisto zloglasno objavo, hehe.</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3midpnyka222r</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3midpnyka222r</guid>
-      <pubDate>Tue, 31 Mar 2026 08:03:42 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Ja, saj se res ne sekiram. Pa še Jay mi je vščkala tisto zloglasno objavo, hehe.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3midpnyka222r">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Na to se je navezovalo, ja. :D Eh, čisto nič me ne gane, interakcije s takšnimi si tako...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3midpicwt722r</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3midpicwt722r</guid>
-      <pubDate>Tue, 31 Mar 2026 08:00:32 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Na to se je navezovalo, ja. :D<br/>Eh, čisto nič me ne gane, interakcije s takšnimi si tako ali tako ne želim. Samo rahlo bizarno se mi zdi, kako brezglavo blokirajo profil tega orodja (?!) in nasploh niti poskusijo ne razumeti, kje se nahajajo.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3midpicwt722r">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
