@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Tue, 07 Apr 2026 14:55:34 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 07 Apr 2026 15:32:27 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@grain.social zaenkrat izgleda kot najboljši instagramski približek na ATProto. Kar mi ...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3miw26iiq7225</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3miw26iiq7225</guid>
+      <pubDate>Tue, 07 Apr 2026 14:59:49 GMT</pubDate>
+      <category>post</category>
+      <description>@grain.social zaenkrat izgleda kot najboljši instagramski približek na ATProto. Kar mi je posebej všeč, je dejstvo, da se tam objavljeno slikovno gradivo ne prikazuje na Bluesky profilu. In obratno.<br/><br/>Upam, da zaživi.<br/><br/>Prva, testna objava:<br/>grain.social/profile/did:...<br/><br/>#ModroNebo<br/><a href="https://bsky.app/profile/oblachek.eu/post/3miw26iiq7225">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Na RTV 365 aplikaciji za TV se je pojavil … oglas. Sicer po par sekundah preskočljiv, a...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3misxkcrjcc2r</link>
@@ -161,14 +169,6 @@
       <pubDate>Tue, 31 Mar 2026 08:00:32 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Na to se je navezovalo, ja. :D<br/>Eh, čisto nič me ne gane, interakcije s takšnimi si tako ali tako ne želim. Samo rahlo bizarno se mi zdi, kako brezglavo blokirajo profil tega orodja (?!) in nasploh niti poskusijo ne razumeti, kje se nahajajo.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3midpicwt722r">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] V nevarnih vodah se giblješ; pazi, da te ne začnejo na veliko blokirati množice brez na...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3midndr3gfs2r</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3midndr3gfs2r</guid>
-      <pubDate>Tue, 31 Mar 2026 07:22:12 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>V nevarnih vodah se giblješ; pazi, da te ne začnejo na veliko blokirati množice brez najmanjšega pojma o delovanju Blueskyja!<br/><a href="https://bsky.app/profile/oblachek.eu/post/3midndr3gfs2r">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
