@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Thu, 09 Apr 2026 10:39:51 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 09 Apr 2026 11:07:58 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Quote] Vredno deljenja že samo v duhu spodbujanja hibridnih dogodkov.</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mj2nq7wros2n</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mj2nq7wros2n</guid>
+      <pubDate>Thu, 09 Apr 2026 11:00:24 GMT</pubDate>
+      <category>quote</category>
+      <description><strong>Quote post</strong><br/>Vredno deljenja že samo v duhu spodbujanja hibridnih dogodkov.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mj2nq7wros2n">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Bizarno in &quot;odštekano&quot; promocijo se greš ponavadi šele takrat, ko je zadeva, ki jo prom...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3miyw6uq6qs2h</link>
@@ -161,14 +169,6 @@
       <pubDate>Tue, 31 Mar 2026 12:25:32 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>I know and fully support Blacksky, I think it&apos;s great that parallel networks are being created and widely spread! Even the people behind ATProto/Bluesky have expressed the wish for a more decentralised ecosystem with more alternatives to Bluesky.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mie6c6k3jc2l">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] I wasn&apos;t saying DMs are public. I was answering your question; I&apos;d have been fine with ...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mie5wxeqfs2l</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mie5wxeqfs2l</guid>
-      <pubDate>Tue, 31 Mar 2026 12:19:16 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>I wasn&apos;t saying DMs are public. I was answering your question; I&apos;d have been fine with a public-first model where &quot;direct&quot; didn&apos;t automatically mean &quot;private&quot;, if that had been clear from the start. Also, DMs weren&apos;t even there from the beginning.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mie5wxeqfs2l">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
