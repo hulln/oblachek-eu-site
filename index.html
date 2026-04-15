@@ -5,45 +5,133 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>oblachek</title>
     <link rel="icon" type="image/jpeg" href="/assets/pikica.jpg">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500&display=swap" rel="stylesheet">
-    <link rel="alternate" type="application/rss+xml" title="oblachek.eu Bluesky RSS" href="/rss/bluesky.xml">
-    <link rel="stylesheet" href="style.css">
+    <link rel="alternate" type="application/rss+xml" title="oblachek.eu Bluesky RSS" href="rss/bluesky.xml">
+    <style>
+        body {
+            margin: 0;
+            padding: 16px;
+            background: #d6ecff;
+            color: #1f3f66;
+            font-family: "Times New Roman", Times, serif;
+            line-height: 1.45;
+        }
+
+        .page {
+            max-width: 760px;
+            margin: 0 auto;
+            border: 1px solid #99bfdf;
+            background: radial-gradient(circle at center, #ffffff 0%, #f3f9ff 58%, #e7f3ff 100%);
+            padding: 20px;
+        }
+
+        h1 {
+            margin: 0;
+            text-align: center;
+            font-size: 1.45rem;
+            letter-spacing: 0.03em;
+        }
+
+        hr {
+            border: 0;
+            border-top: 1px solid #c9def1;
+            margin: 14px 0;
+        }
+
+        .cloud-box {
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        .cloud {
+            font-family: "Courier New", Courier, monospace;
+            display: inline-block;
+            text-align: left;
+            margin: 0;
+            font-size: 0.95rem;
+        }
+
+        .small {
+            font-size: 0.92rem;
+        }
+
+        .footer {
+            font-size: 0.88rem;
+            text-align: center;
+        }
+
+        a {
+            color: #2d5f98;
+        }
+    </style>
 </head>
 <body>
-    <div class="container">
-        <h1 class="title">a tiny cloud on the internet</h1>
-        
-        <div class="cloud" id="cloud"></div>
-        <div class="cloud-shadow"></div>
-        
-        <p class="instruction">press me to make me cry</p>
-        <button class="footer-link-button now-playing" id="nowPlayingButton" type="button">or listen with me <span class="now-playing-note">(press again to stop)</span></button>
+    <div class="page">
+        <h1>a tiny cloud on the internet</h1>
+        <hr>
+
+        <div class="cloud-box" aria-hidden="true">
+            <pre class="cloud">      .--.
+   .-(    ).
+  (___.__)__)</pre>
+        </div>
+
+        <p class="small" align="center">the little cloud is vibing today</p>
+        <p class="small" align="center">(or probably listening to <a href="https://www.youtube.com/watch?v=D-1vpxQGDQc">this song</a>)</p>
+        <hr>
+
+        <div class="footer">
+            Local time: <span id="localTime">00:00:00</span> - <a href="https://www.openstreetmap.org/relation/218657">Slovenia</a>, Europe<br>
+            <a href="https://bsky.app/profile/oblachek.eu">Bluesky</a> - <a href="rss/bluesky.xml">Bluesky RSS</a> - <a href="https://grain.social/profile/did%3Aplc%3Axfd6rbdcmbesdjrumyxdlipp">Grain Social</a> - <a href="https://glimpsky.oblachek.eu/">GlimpSky</a><br>
+            Last updated: <span id="lastUpdated">loading...</span>
+        </div>
     </div>
 
-    <div class="footer">
-        <span id="localTime"></span> • <a href="https://www.openstreetmap.org/relation/218657">Slovenia, Europe</a><br>
-        <a href="https://bsky.app/profile/oblachek.eu">Bluesky</a> • <a href="/rss/bluesky.xml">Bluesky RSS</a> • <a href="https://glimpsky.oblachek.eu/">GlimpSky, my Bluesky profile viewer</a><br>
-        Last updated: <span id="lastUpdated"></span>
-    </div>
+    <script>
+        (function updateLocalTime() {
+            var output = document.getElementById("localTime");
 
-    <div class="rainbow" id="rainbow"></div>
-    <div class="rain-container" id="rainContainer"></div>
-    <div class="yt-player" id="ytPlayerContainer" aria-hidden="true"></div>
+            if (!output) return;
 
-    <script src="script.js"></script>
+            function renderTime() {
+                output.textContent = new Date().toLocaleTimeString("en-GB", {
+                    hour: "2-digit",
+                    minute: "2-digit",
+                    second: "2-digit",
+                    hour12: false
+                });
+            }
 
-    <!-- Analytics -->
-    <script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-    <noscript>
-        <img
-        src="https://queue.simpleanalyticscdn.com/noscript.gif?collect-dnt=true"
-        alt=""
-        referrerpolicy="no-referrer-when-downgrade"
-        />
-    </noscript>
-    <script async src="https://scripts.simpleanalyticscdn.com/auto-events.js"></script>
+            renderTime();
+            setInterval(renderTime, 1000);
+        })();
 
+        (function setExactLastUpdated() {
+            var output = document.getElementById("lastUpdated");
+            var modifiedAt = new Date(document.lastModified);
+
+            if (!output) return;
+
+            if (Number.isNaN(modifiedAt.getTime())) {
+                output.textContent = document.lastModified || "unknown";
+                return;
+            }
+
+            var pad = function (n) { return String(n).padStart(2, "0"); };
+            var year = modifiedAt.getFullYear();
+            var month = pad(modifiedAt.getMonth() + 1);
+            var day = pad(modifiedAt.getDate());
+            var hour = pad(modifiedAt.getHours());
+            var minute = pad(modifiedAt.getMinutes());
+            var second = pad(modifiedAt.getSeconds());
+
+            var offsetMin = -modifiedAt.getTimezoneOffset();
+            var sign = offsetMin >= 0 ? "+" : "-";
+            var absOffset = Math.abs(offsetMin);
+            var offsetHour = pad(Math.floor(absOffset / 60));
+            var offsetMinute = pad(absOffset % 60);
+
+            output.textContent = year + "-" + month + "-" + day + " " + hour + ":" + minute + ":" + second + " GMT" + sign + offsetHour + ":" + offsetMinute;
+        })();
+    </script>
 </body>
 </html>
