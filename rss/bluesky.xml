@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Wed, 15 Apr 2026 11:48:42 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 15 Apr 2026 12:23:29 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Še n-tič. Kontrola/identifikacija/starostna verifikacija/… na spletu je brezpogojno sla...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mjju7re3q226</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mjju7re3q226</guid>
+      <pubDate>Wed, 15 Apr 2026 12:06:24 GMT</pubDate>
+      <category>post</category>
+      <description>Še n-tič. Kontrola/identifikacija/starostna verifikacija/… na spletu je brezpogojno slaba stvar.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mjju7re3q226">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] V zvezi s tem je bizarno res čisto vse. Od ideje, komunikacije, (poskusov) izvedbe, do ...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mjjsrjduf226</link>
@@ -161,14 +169,6 @@
       <pubDate>Tue, 07 Apr 2026 14:59:49 GMT</pubDate>
       <category>post</category>
       <description>@grain.social zaenkrat izgleda kot najboljši instagramski približek na ATProto. Kar mi je posebej všeč, je dejstvo, da se tam objavljeno slikovno gradivo ne prikazuje na Bluesky profilu. In obratno.<br/><br/>Upam, da zaživi.<br/><br/>Prva, testna objava:<br/>grain.social/profile/did:...<br/><br/>#ModroNebo<br/><a href="https://bsky.app/profile/oblachek.eu/post/3miw26iiq7225">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Na RTV 365 aplikaciji za TV se je pojavil … oglas. Sicer po par sekundah preskočljiv, a...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3misxkcrjcc2r</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3misxkcrjcc2r</guid>
-      <pubDate>Mon, 06 Apr 2026 09:34:45 GMT</pubDate>
-      <category>post</category>
-      <description>Na RTV 365 aplikaciji za TV se je pojavil … oglas. Sicer po par sekundah preskočljiv, ampak nezaslišano.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3misxkcrjcc2r">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
