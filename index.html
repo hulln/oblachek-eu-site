@@ -82,7 +82,7 @@
         <div class="footer">
             Local time: <span id="localTime">00:00:00</span> - <a href="https://www.openstreetmap.org/relation/218657">Slovenia</a>, Europe<br>
             <a href="https://bsky.app/profile/oblachek.eu">Bluesky</a> - <a href="rss/bluesky.xml">Bluesky RSS</a> - <a href="https://grain.social/profile/did%3Aplc%3Axfd6rbdcmbesdjrumyxdlipp">Grain Social</a> - <a href="https://glimpsky.oblachek.eu/">GlimpSky</a><br>
-            Last updated: <span id="lastUpdated">loading...</span>
+            Last updated: 2026-04-15
         </div>
     </div>
 
@@ -103,26 +103,6 @@
 
             renderTime();
             setInterval(renderTime, 1000);
-        })();
-
-        (function setExactLastUpdated() {
-            var output = document.getElementById("lastUpdated");
-            var modifiedAt = new Date(document.lastModified);
-
-            if (!output || Number.isNaN(modifiedAt.getTime())) {
-                output.textContent = document.lastModified || "unknown";
-                return;
-            }
-
-            var pad = function (n) { return String(n).padStart(2, "0"); };
-            var year = modifiedAt.getFullYear();
-            var month = pad(modifiedAt.getMonth() + 1);
-            var day = pad(modifiedAt.getDate());
-            var hour = pad(modifiedAt.getHours());
-            var minute = pad(modifiedAt.getMinutes());
-            var second = pad(modifiedAt.getSeconds());
-
-            output.textContent = year + "-" + month + "-" + day + " " + hour + ":" + minute + ":" + second;
         })();
     </script>
 </body>
