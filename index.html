@@ -109,9 +109,7 @@
             var output = document.getElementById("lastUpdated");
             var modifiedAt = new Date(document.lastModified);
 
-            if (!output) return;
-
-            if (Number.isNaN(modifiedAt.getTime())) {
+            if (!output || Number.isNaN(modifiedAt.getTime())) {
                 output.textContent = document.lastModified || "unknown";
                 return;
             }
@@ -124,13 +122,7 @@
             var minute = pad(modifiedAt.getMinutes());
             var second = pad(modifiedAt.getSeconds());
 
-            var offsetMin = -modifiedAt.getTimezoneOffset();
-            var sign = offsetMin >= 0 ? "+" : "-";
-            var absOffset = Math.abs(offsetMin);
-            var offsetHour = pad(Math.floor(absOffset / 60));
-            var offsetMinute = pad(absOffset % 60);
-
-            output.textContent = year + "-" + month + "-" + day + " " + hour + ":" + minute + ":" + second + " GMT" + sign + offsetHour + ":" + offsetMinute;
+            output.textContent = year + "-" + month + "-" + day + " " + hour + ":" + minute + ":" + second;
         })();
     </script>
 </body>
