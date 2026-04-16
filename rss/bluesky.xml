@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Thu, 16 Apr 2026 20:05:20 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 16 Apr 2026 20:33:12 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📍 Ljubljana Castle SI Še štel sem besede v slovo, da se vrnem pa sanjal močno. (Eni od...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mjn7j536uq2o</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mjn7j536uq2o</guid>
+      <pubDate>Thu, 16 Apr 2026 20:06:30 GMT</pubDate>
+      <category>post</category>
+      <description>📍 Ljubljana Castle<br/>SI<br/><br/>Še štel sem besede v slovo,<br/>da se vrnem pa sanjal močno.<br/><br/>(Eni od sedmih milijard – Če bom našel pot)<br/><br/>https://grain.social/profile/did:plc:xfd6rbdcmbesdjrumyxdlipp/gallery/3mjn7iz5t5q2o<br/><br/>#grainsocial<br/><img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xfd6rbdcmbesdjrumyxdlipp/bafkreiao4b4ecobmhzgjuknfrws2i6hvfg35juvk6ujuv625j5rcrukz5a" alt="Pogled z Ljubljanskega gradu" /><br/><a href="https://bsky.app/profile/oblachek.eu/post/3mjn7j536uq2o">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Še n-tič. Kontrola/identifikacija/starostna verifikacija/… na spletu je brezpogojno sla...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mjju7re3q226</link>
@@ -161,14 +169,6 @@
       <pubDate>Tue, 07 Apr 2026 21:45:29 GMT</pubDate>
       <category>post</category>
       <description>@grain.social appears to be exactly what I was looking for: an ATProto Instagram alternative with independent follow stats, where photos don&apos;t show on your Bluesky profile and vice versa. It&apos;s missing some IG features, of course, but it really gives old Instagram vibes.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3miwqtvk3hs2e">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>@grain.social zaenkrat izgleda kot najboljši instagramski približek na ATProto. Kar mi ...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3miw26iiq7225</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3miw26iiq7225</guid>
-      <pubDate>Tue, 07 Apr 2026 14:59:49 GMT</pubDate>
-      <category>post</category>
-      <description>@grain.social zaenkrat izgleda kot najboljši instagramski približek na ATProto. Kar mi je posebej všeč, je dejstvo, da se tam objavljeno slikovno gradivo ne prikazuje na Bluesky profilu. In obratno.<br/><br/>Upam, da zaživi.<br/><br/>Prva, testna objava:<br/>grain.social/profile/did:...<br/><br/>#ModroNebo<br/><a href="https://bsky.app/profile/oblachek.eu/post/3miw26iiq7225">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
