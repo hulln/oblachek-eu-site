@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Fri, 17 Apr 2026 11:20:40 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 17 Apr 2026 11:47:09 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Absolutno, vedno.</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mjotjekb5c27</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mjotjekb5c27</guid>
+      <pubDate>Fri, 17 Apr 2026 11:37:11 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Absolutno, vedno.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mjotjekb5c27">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Še n-tič. Kontrola/identifikacija/starostna verifikacija/… na spletu je brezpogojno sla...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mjju7re3q226</link>
@@ -161,14 +169,6 @@
       <pubDate>Tue, 07 Apr 2026 21:45:29 GMT</pubDate>
       <category>post</category>
       <description>@grain.social appears to be exactly what I was looking for: an ATProto Instagram alternative with independent follow stats, where photos don&apos;t show on your Bluesky profile and vice versa. It&apos;s missing some IG features, of course, but it really gives old Instagram vibes.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3miwqtvk3hs2e">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>@grain.social zaenkrat izgleda kot najboljši instagramski približek na ATProto. Kar mi ...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3miw26iiq7225</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3miw26iiq7225</guid>
-      <pubDate>Tue, 07 Apr 2026 14:59:49 GMT</pubDate>
-      <category>post</category>
-      <description>@grain.social zaenkrat izgleda kot najboljši instagramski približek na ATProto. Kar mi je posebej všeč, je dejstvo, da se tam objavljeno slikovno gradivo ne prikazuje na Bluesky profilu. In obratno.<br/><br/>Upam, da zaživi.<br/><br/>Prva, testna objava:<br/>grain.social/profile/did:...<br/><br/>#ModroNebo<br/><a href="https://bsky.app/profile/oblachek.eu/post/3miw26iiq7225">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
