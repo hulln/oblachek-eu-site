@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Sat, 18 Apr 2026 06:41:30 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 18 Apr 2026 07:10:38 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Murdle, dnevna ugankica z iskanjem morilca. murdle.com</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mjqtrg5im22f</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mjqtrg5im22f</guid>
+      <pubDate>Sat, 18 Apr 2026 06:47:01 GMT</pubDate>
+      <category>post</category>
+      <description>Murdle, dnevna ugankica z iskanjem morilca.<br/>murdle.com<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mjqtrg5im22f">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Absolutno, vedno.</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mjotjekb5c27</link>
@@ -161,14 +169,6 @@
       <pubDate>Tue, 07 Apr 2026 21:45:29 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>My first suggestion, though: maybe I&apos;m just missing it, but if Bluesky mutuals/followings are already there and just hidden somewhere under a random suggested section on the main page, it&apos;s not very intuitive. A searchable list of your Bluesky people already registered on Grain would be great.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3miwqtvskxc2e">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>@grain.social appears to be exactly what I was looking for: an ATProto Instagram altern...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3miwqtvk3hs2e</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3miwqtvk3hs2e</guid>
-      <pubDate>Tue, 07 Apr 2026 21:45:29 GMT</pubDate>
-      <category>post</category>
-      <description>@grain.social appears to be exactly what I was looking for: an ATProto Instagram alternative with independent follow stats, where photos don&apos;t show on your Bluesky profile and vice versa. It&apos;s missing some IG features, of course, but it really gives old Instagram vibes.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3miwqtvk3hs2e">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
