@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Thu, 23 Apr 2026 15:36:27 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 23 Apr 2026 17:01:00 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nekega poznoaprilskega popoldneva. grain.social/profile/did:...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mk6hvieh4k2d</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mk6hvieh4k2d</guid>
+      <pubDate>Thu, 23 Apr 2026 16:51:49 GMT</pubDate>
+      <category>post</category>
+      <description>Nekega poznoaprilskega popoldneva.<br/>grain.social/profile/did:...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mk6hvieh4k2d">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Murdle, dnevna ugankica z iskanjem morilca. murdle.com</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mjqtrg5im22f</link>
@@ -161,14 +169,6 @@
       <pubDate>Wed, 08 Apr 2026 18:26:26 GMT</pubDate>
       <category>post</category>
       <description>Bizarno in &quot;odštekano&quot; promocijo se greš ponavadi šele takrat, ko je zadeva, ki jo promoviraš, na ustreznem nivoju. Dokler niso urejene osnove in odpravljene dlje časa trajajoče težave, je izživljanje s &quot;kreativno&quot; promocijo samo v posmeh vsem, ki se utegnejo ujeti njeno past.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3miyw6uq6qs2h">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] My first suggestion, though: maybe I&apos;m just missing it, but if Bluesky mutuals/followin...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3miwqtvskxc2e</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3miwqtvskxc2e</guid>
-      <pubDate>Tue, 07 Apr 2026 21:45:29 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>My first suggestion, though: maybe I&apos;m just missing it, but if Bluesky mutuals/followings are already there and just hidden somewhere under a random suggested section on the main page, it&apos;s not very intuitive. A searchable list of your Bluesky people already registered on Grain would be great.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3miwqtvskxc2e">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
