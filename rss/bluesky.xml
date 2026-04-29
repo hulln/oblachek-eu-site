@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Wed, 29 Apr 2026 17:01:28 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 29 Apr 2026 17:47:54 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Kratki slikovni vtisi: grain.social/profile/did:...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mknmg5bwac2g</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mknmg5bwac2g</guid>
+      <pubDate>Wed, 29 Apr 2026 17:22:38 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Kratki slikovni vtisi: grain.social/profile/did:...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mknmg5bwac2g">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Vozni redi vlakov so bolj priporočila kot obveza; ne zamude, predčasni odhodi so pogost...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mkhm7giagk2z</link>
@@ -161,14 +169,6 @@
       <pubDate>Fri, 10 Apr 2026 11:04:52 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Na relaciji Ljubljana–Jesenice je hitra avtobusna povezava svojčas že obstajala. Leta 2019 so bile uvedene hitre linije z Gorenjske v Ljubljano, danes pa javno objavljeni vozni redi (in izkušnje) kažejo, da Jesenice časovno niso več konkurenčne tako, kot bi glede na razdaljo morale biti.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mj56h564w223">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Monolog o nesrečnih hitrih linijah javnega potniškega prometa. Ker se mi zdi nezaslišan...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mj56h55nc223</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mj56h55nc223</guid>
-      <pubDate>Fri, 10 Apr 2026 11:04:52 GMT</pubDate>
-      <category>post</category>
-      <description>Monolog o nesrečnih hitrih linijah javnega potniškega prometa. Ker se mi zdi nezaslišano, da pot od doma do Ljubljane pri manj km traja mnogo dlje kot pot od Ljubljane do Maribora in celo Murske Sobote. (Regionalna nepovezanost Prekmurja je sicer svojevrstno veselje in užas.)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mj56h55nc223">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
