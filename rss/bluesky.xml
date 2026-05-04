@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 04 May 2026 16:55:54 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 04 May 2026 17:35:28 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zbiram stave, po koliko dneh zaporedne vsakodnevne vožnje od doma v Ljubljano in nazaj ...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3ml26zz2v2k2t</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3ml26zz2v2k2t</guid>
+      <pubDate>Mon, 04 May 2026 17:27:49 GMT</pubDate>
+      <category>post</category>
+      <description>Zbiram stave, po koliko dneh zaporedne vsakodnevne vožnje od doma v Ljubljano in nazaj z javnim prometom me bo dodobra minila volja do obstoja. 🥲<br/><a href="https://bsky.app/profile/oblachek.eu/post/3ml26zz2v2k2t">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>@atls.city !set SI-070-Maribor</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mktzrrgdnk2r</link>
@@ -161,14 +169,6 @@
       <pubDate>Fri, 17 Apr 2026 11:37:11 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Absolutno, vedno.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mjotjekb5c27">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Še n-tič. Kontrola/identifikacija/starostna verifikacija/… na spletu je brezpogojno sla...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mjju7re3q226</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mjju7re3q226</guid>
-      <pubDate>Wed, 15 Apr 2026 12:06:24 GMT</pubDate>
-      <category>post</category>
-      <description>Še n-tič. Kontrola/identifikacija/starostna verifikacija/… na spletu je brezpogojno slaba stvar.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mjju7re3q226">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
