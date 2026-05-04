@@ -8,8 +8,24 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 04 May 2026 18:49:37 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 04 May 2026 19:33:46 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] (Začetne postaje vlaka, seveda.)</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3ml2dspn4pk2t</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3ml2dspn4pk2t</guid>
+      <pubDate>Mon, 04 May 2026 18:53:13 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>(Začetne postaje vlaka, seveda.)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3ml2dspn4pk2t">View post on Bluesky</a></description>
+    </item>
+    <item>
+      <title>[Reply] Seveda, za vse, ki na novo spremljate moje avanture z JPP: skrajni SZ, vsaj del poti do...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3ml2doyeqos2t</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3ml2doyeqos2t</guid>
+      <pubDate>Mon, 04 May 2026 18:51:08 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Seveda, za vse, ki na novo spremljate moje avanture z JPP: skrajni SZ, vsaj del poti do začetne postaje je edini način avtobus (hitre linije ni več). Če bi k nam še vedno vozil vlak, bi bilo kljub razdalji in času bolj znosno kot z busom.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3ml2doyeqos2t">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Zbiram stave, po koliko dneh zaporedne vsakodnevne vožnje od doma v Ljubljano in nazaj ...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3ml26zz2v2k2t</link>
@@ -153,22 +169,6 @@
       <pubDate>Thu, 23 Apr 2026 16:51:49 GMT</pubDate>
       <category>post</category>
       <description>Nekega poznoaprilskega popoldneva.<br/>grain.social/profile/did:...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mk6hvieh4k2d">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Murdle, dnevna ugankica z iskanjem morilca. murdle.com</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mjqtrg5im22f</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mjqtrg5im22f</guid>
-      <pubDate>Sat, 18 Apr 2026 06:47:01 GMT</pubDate>
-      <category>post</category>
-      <description>Murdle, dnevna ugankica z iskanjem morilca.<br/>murdle.com<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mjqtrg5im22f">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Absolutno, vedno.</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mjotjekb5c27</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mjotjekb5c27</guid>
-      <pubDate>Fri, 17 Apr 2026 11:37:11 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Absolutno, vedno.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mjotjekb5c27">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
