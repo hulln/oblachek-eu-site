@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Tue, 05 May 2026 05:28:51 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 05 May 2026 06:21:21 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Jaz uporabljam BitWarden (zastonj verzijo) že nekaj časa. Tudi Proton Pass deluje mikavno.</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3ml3iqnqmkk24</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3ml3iqnqmkk24</guid>
+      <pubDate>Tue, 05 May 2026 05:54:13 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Jaz uporabljam BitWarden (zastonj verzijo) že nekaj časa. Tudi Proton Pass deluje mikavno.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3ml3iqnqmkk24">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] (Začetne postaje vlaka, seveda.)</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3ml2dspn4pk2t</link>
@@ -161,14 +169,6 @@
       <pubDate>Mon, 27 Apr 2026 08:02:55 GMT</pubDate>
       <category>post</category>
       <description>Kratek izlet v Benetke, očitno pristna italijanska izkušnja od prve do zadnje sekunde. Začenši z online nakupom vozovnice, ki jo moraš aktivirati tako, da jo natisneš na avtomatu, ki se seveda nahaja le na izbranih postajah, in validirati na avtobusu, čeprav (menda) velja tudi za regionalne vlake.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mkhm7ghlwc2z">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Nekega poznoaprilskega popoldneva. grain.social/profile/did:...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mk6hvieh4k2d</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mk6hvieh4k2d</guid>
-      <pubDate>Thu, 23 Apr 2026 16:51:49 GMT</pubDate>
-      <category>post</category>
-      <description>Nekega poznoaprilskega popoldneva.<br/>grain.social/profile/did:...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mk6hvieh4k2d">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
