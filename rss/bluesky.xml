@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Fri, 08 May 2026 14:23:20 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 08 May 2026 15:04:08 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Večina dogodkov in izobraževanj, objavljenih na profilu @odprtaznanost.si, poteka prek ...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mldxfvfvms2v</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mldxfvfvms2v</guid>
+      <pubDate>Fri, 08 May 2026 14:37:56 GMT</pubDate>
+      <category>post</category>
+      <description>Večina dogodkov in izobraževanj, objavljenih na profilu @odprtaznanost.si, poteka prek spleta ali pa vsaj omogoča spremljanje na daljavo.<br/>Lep primer odprte znanosti v praksi in dober zgled vsem, ki sicer zelo radi poudarjajo transparentnost, kakovost in odličnost.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mldxfvfvms2v">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Kar je za nekoga &quot;izgubljeno upanje za družbena omrežja&quot;, je za nekoga drugega lahko oh...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mlbmgv2qks2b</link>
@@ -162,14 +170,6 @@
       <pubDate>Sat, 02 May 2026 06:36:45 GMT</pubDate>
       <category>post</category>
       <description>@atls.city !remove si-070<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mktzpxnens2r">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>@atls.city !remove si</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mktzpodqak2r</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mktzpodqak2r</guid>
-      <pubDate>Sat, 02 May 2026 06:36:35 GMT</pubDate>
-      <category>post</category>
-      <description>@atls.city !remove si<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mktzpodqak2r">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
