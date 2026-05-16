@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Sat, 16 May 2026 07:27:44 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2026 08:17:12 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@bskyrad.io Hi, can you play some Slovenian music? Thanks!</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mlxemj53lc2o</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mlxemj53lc2o</guid>
+      <pubDate>Sat, 16 May 2026 07:54:51 GMT</pubDate>
+      <category>post</category>
+      <description>@bskyrad.io Hi, can you play some Slovenian music? Thanks!<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlxemj53lc2o">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Agreed.</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mlwfagjv7c2o</link>
@@ -162,14 +170,6 @@
       <pubDate>Mon, 11 May 2026 17:45:58 GMT</pubDate>
       <category>quote</category>
       <description><strong>Quote post</strong><br/>Slabo, zelo slabo. In precej sramotno za EU.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlltcvd6ek2h">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Hi, very interesting stats, thanks! Do you maybe have methodology notes somewhere? I’m ...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mlkv23gf2k2y</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mlkv23gf2k2y</guid>
-      <pubDate>Mon, 11 May 2026 08:44:10 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Hi, very interesting stats, thanks! Do you maybe have methodology notes somewhere? I’m curious if this is based just on the langs field, or if you also run language detection over posts from the PDS. Also, are fuller stats for all languages available anywhere?<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlkv23gf2k2y">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
