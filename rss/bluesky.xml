@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Sat, 16 May 2026 20:30:24 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2026 21:02:23 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>@bskyrad.io bro what happened :(</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mlyq7xzly22k</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mlyq7xzly22k</guid>
+      <pubDate>Sat, 16 May 2026 20:55:15 GMT</pubDate>
+      <category>post</category>
+      <description>@bskyrad.io bro what happened :(<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlyq7xzly22k">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Quote] Za obvestila o blokiranju je tu @listifications.app, za odsleditelje (?) pa po hitrem p...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mlxs3ywk722r</link>
@@ -162,14 +170,6 @@
       <pubDate>Mon, 11 May 2026 21:29:51 GMT</pubDate>
       <category>quote</category>
       <description><strong>Quote post</strong><br/>Bizarni so tudi razni slovenski strokovnjaki, ki za (medsebojno? monološko?) komunikacijo uporabljajo angleške, na daleč zaznavne UI-generirane komentarje.<br/>Resda gre povečini za vsaj navidez vase zagledane primerke, a zanima me, ali vsaj kdaj kdo pomisli, da jim to utegne bolj škoditi kot koristiti.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlm7ta635k25">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>A day without rain on a rainy day – grain.social/profile/did:...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mlm6dcp6ls25</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mlm6dcp6ls25</guid>
-      <pubDate>Mon, 11 May 2026 21:03:03 GMT</pubDate>
-      <category>post</category>
-      <description>A day without rain on a rainy day –<br/>grain.social/profile/did:...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlm6dcp6ls25">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
