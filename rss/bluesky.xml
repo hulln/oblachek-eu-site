@@ -8,8 +8,24 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Sat, 16 May 2026 11:46:58 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2026 12:23:25 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Quote] Za obvestila o blokiranju je tu @listifications.app, za odsleditelje (?) pa po hitrem p...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mlxs3ywk722r</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mlxs3ywk722r</guid>
+      <pubDate>Sat, 16 May 2026 11:56:10 GMT</pubDate>
+      <category>quote</category>
+      <description><strong>Quote post</strong><br/>Za obvestila o blokiranju je tu @listifications.app, za odsleditelje (?) pa po hitrem preletu stanja ne izgleda, da bi obstajalo kaj aktivno delujočega. Tole je (eksperimentalni in zaenkrat ne povsem preverjeni) poskus dnevnega obveščanja o odslediteljih. @unfollowers.eurosky.social <br/>#ModroNebo<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlxs3ywk722r">View post on Bluesky</a></description>
+    </item>
+    <item>
+      <title>[Reply] Hi, I&apos;m not planning on adding this feature, since @listifications.app is already doing...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mlxrmk66hc2r</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mlxrmk66hc2r</guid>
+      <pubDate>Sat, 16 May 2026 11:47:31 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Hi, I&apos;m not planning on adding this feature, since @listifications.app is already doing a great job.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlxrmk66hc2r">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Se pridružujem vtisu.</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mlxntwfn3k2l</link>
@@ -154,22 +170,6 @@
       <pubDate>Mon, 11 May 2026 21:03:03 GMT</pubDate>
       <category>post</category>
       <description>A day without rain on a rainy day –<br/>grain.social/profile/did:...<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlm6dcp6ls25">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Grozljivka. Bože sačuvaj. #interventnizakon</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mlm53mw5r22h</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mlm53mw5r22h</guid>
-      <pubDate>Mon, 11 May 2026 20:40:51 GMT</pubDate>
-      <category>post</category>
-      <description>Grozljivka. Bože sačuvaj. #interventnizakon<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlm53mw5r22h">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>Meet oblachek — Adaptive Dreamweaver Built for @reverie.house on @rpg.actor View the ch...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mllxap5omc2h</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mllxap5omc2h</guid>
-      <pubDate>Mon, 11 May 2026 18:56:19 GMT</pubDate>
-      <category>post</category>
-      <description>Meet oblachek — Adaptive Dreamweaver<br/><br/>Built for @reverie.house on @rpg.actor<br/><br/>View the character sheet, and create your own:<br/>rpg.actor/oblachek.eu<br/><br/>#dreamweaver #rpgactor #atproto<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mllxap5omc2h">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
