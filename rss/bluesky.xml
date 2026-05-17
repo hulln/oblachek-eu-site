@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Sun, 17 May 2026 13:09:36 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 17 May 2026 13:51:24 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Agreed, it&apos;s really nice!</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mm2iq5od4s26</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mm2iq5od4s26</guid>
+      <pubDate>Sun, 17 May 2026 13:46:28 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Agreed, it&apos;s really nice!<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mm2iq5od4s26">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>@bskyrad.io bro what happened :(</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mlyq7xzly22k</link>
@@ -162,14 +170,6 @@
       <pubDate>Tue, 12 May 2026 06:57:08 GMT</pubDate>
       <category>quote</category>
       <description><strong>Quote post</strong><br/>Lp vsem! 👋<br/><br/>Na kratko za vse, ki se prvič srečujete s tem: @eurosky.social je evropski gostitelj za Bluesky/ATProto račun. Ni ločeno omrežje; še vedno ste v istem &quot;prostoru&quot; in komunicirate z računi na Blueskyju, samo podatki vašega računa niso več &quot;doma&quot; pri bsky.social, temveč pri eurosky.social.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mln7jmeahc23">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Quote] Bizarni so tudi razni slovenski strokovnjaki, ki za (medsebojno? monološko?) komunikaci...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mlm7ta635k25</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mlm7ta635k25</guid>
-      <pubDate>Mon, 11 May 2026 21:29:51 GMT</pubDate>
-      <category>quote</category>
-      <description><strong>Quote post</strong><br/>Bizarni so tudi razni slovenski strokovnjaki, ki za (medsebojno? monološko?) komunikacijo uporabljajo angleške, na daleč zaznavne UI-generirane komentarje.<br/>Resda gre povečini za vsaj navidez vase zagledane primerke, a zanima me, ali vsaj kdaj kdo pomisli, da jim to utegne bolj škoditi kot koristiti.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlm7ta635k25">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
