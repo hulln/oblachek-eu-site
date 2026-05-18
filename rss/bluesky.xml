@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 18 May 2026 14:02:38 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 15:24:53 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Quote] Ko že misliš, da grše ne gre.</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mm53q3y6d22h</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mm53q3y6d22h</guid>
+      <pubDate>Mon, 18 May 2026 14:31:46 GMT</pubDate>
+      <category>quote</category>
+      <description><strong>Quote post</strong><br/>Ko že misliš, da grše ne gre.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mm53q3y6d22h">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Mja. Moj plan je bil kupiti tega in ga obdržati karseda dolgo, sploh zaradi kar lep čas...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mm4cj3s5l22h</link>
@@ -161,15 +169,6 @@
       <pubDate>Tue, 12 May 2026 07:23:55 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Z veseljem! :)<br/>Če te bo kdaj kje odjavilo in se bo treba prijaviti na ta način, pa samo glej, da imaš pravilno nastavljen hosting provider (ne reaktiviraš na bsky).<br/><img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:xfd6rbdcmbesdjrumyxdlipp/bafkreiaanro32etu2se7uc6rb5c4hvyd55azjeuubbo2vx5gg5tjkv7whq" alt="Sign in screen, bsky.app, choose hosting provider, set to eurosky.social" /><br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlnaziksxs23">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] [Quote] Za selitev, ki praviloma poteka hitro in enostavno, so na voljo orodja – move.eurosky.t...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mln7jmmlzs23</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mln7jmmlzs23</guid>
-      <pubDate>Tue, 12 May 2026 06:57:08 GMT</pubDate>
-      <category>reply</category>
-      <category>quote</category>
-      <description><strong>Reply</strong><br/><strong>Quote post</strong><br/>Za selitev, ki praviloma poteka hitro in enostavno, so na voljo orodja – move.eurosky.tech ali pdsmoover.com/moover/euros...; v primeru težav pa se lahko obrnete tudi na @sebastian.eurosky.social (npr. tu: bsky.app/profile/seba...)<br/><br/>#ModroNebo<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mln7jmmlzs23">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
