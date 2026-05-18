@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 18 May 2026 19:06:08 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 19:52:49 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Iz nekaj različnih drugih rok: N26, TR in Revolut delajo; Curve tudi. Google Pay ne. Fl...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mm5m4enjws2g</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mm5m4enjws2g</guid>
+      <pubDate>Mon, 18 May 2026 19:24:58 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Iz nekaj različnih drugih rok: N26, TR in Revolut delajo; Curve tudi. Google Pay ne. Flik menda tudi ja, za ostale slovenske ne vem. Na poizvedovanja pri moji slovenski banki (sicer že pred časom) mi niso znali odgovoriti.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mm5m4enjws2g">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Thanks! I guess I needed this final push; will switch asap, especially if battery life ...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mm5itcc57c2m</link>
@@ -161,14 +169,6 @@
       <pubDate>Wed, 13 May 2026 08:32:28 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Hi! 👋<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlpvcyuia22m">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>@atstore.fyi Hi! I&apos;m wondering about the logic behind the optional Product handle field...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mlo3d6idv226</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mlo3d6idv226</guid>
-      <pubDate>Tue, 12 May 2026 15:14:37 GMT</pubDate>
-      <category>post</category>
-      <description>@atstore.fyi Hi! I&apos;m wondering about the logic behind the optional Product handle field. I tried my bot&apos;s handle, but it failed because I&apos;m signed in with my main. I&apos;d expect users to submit from their own account while products can have separate handles, maybe with extra verification. Thanks!<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlo3d6idv226">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
