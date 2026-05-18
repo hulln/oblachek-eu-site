@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 18 May 2026 18:20:53 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 19:06:08 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Thanks! I guess I needed this final push; will switch asap, especially if battery life ...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mm5itcc57c2m</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mm5itcc57c2m</guid>
+      <pubDate>Mon, 18 May 2026 18:26:12 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Thanks! I guess I needed this final push; will switch asap, especially if battery life is generally at least comparable to stock OS. :)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mm5itcc57c2m">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Moj 8 Pro bo kmalu 2 leti, prej pa nek poceni Xiaomi, pa sta po bateriji kar na istem. ...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mm5a6bhvz22h</link>
@@ -161,14 +169,6 @@
       <pubDate>Tue, 12 May 2026 15:14:37 GMT</pubDate>
       <category>post</category>
       <description>@atstore.fyi Hi! I&apos;m wondering about the logic behind the optional Product handle field. I tried my bot&apos;s handle, but it failed because I&apos;m signed in with my main. I&apos;d expect users to submit from their own account while products can have separate handles, maybe with extra verification. Thanks!<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlo3d6idv226">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Great, thanks!</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mlnuf67res25</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mlnuf67res25</guid>
-      <pubDate>Tue, 12 May 2026 13:10:27 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Great, thanks!<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlnuf67res25">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
