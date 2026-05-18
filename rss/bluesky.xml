@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Mon, 18 May 2026 06:47:55 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 08:22:49 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Mja. Moj plan je bil kupiti tega in ga obdržati karseda dolgo, sploh zaradi kar lep čas...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mm4cj3s5l22h</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mm4cj3s5l22h</guid>
+      <pubDate>Mon, 18 May 2026 07:00:28 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Mja. Moj plan je bil kupiti tega in ga obdržati karseda dolgo, sploh zaradi kar lep čas zagotovljenih varnostnih posodobitev. Ampak baterija je pa katastrofa in ne vem, kako dolgo bo še šlo.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mm4cj3s5l22h">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>To, kar Google počne s posodobitvami Pixlov, ki samo vzdržujejo ciklično prehajanje med...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mm3c6ltt6s2z</link>
@@ -162,14 +170,6 @@
       <category>reply</category>
       <category>quote</category>
       <description><strong>Reply</strong><br/><strong>Quote post</strong><br/>Za selitev, ki praviloma poteka hitro in enostavno, so na voljo orodja – move.eurosky.tech ali pdsmoover.com/moover/euros...; v primeru težav pa se lahko obrnete tudi na @sebastian.eurosky.social (npr. tu: bsky.app/profile/seba...)<br/><br/>#ModroNebo<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mln7jmmlzs23">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] To pa, vsaj trenutno in zaradi specifik protokola AT, še ne pomeni popolnoma od ZDA loč...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mln7jmmj4223</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mln7jmmj4223</guid>
-      <pubDate>Tue, 12 May 2026 06:57:08 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>To pa, vsaj trenutno in zaradi specifik protokola AT, še ne pomeni popolnoma od ZDA ločene evropske različice Blueskyja. Pomeni predvsem, da se gostovanje vašega računa preseli k evropskemu ponudniku, medtem ko ostajate del istega širšega omrežja.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mln7jmmj4223">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
