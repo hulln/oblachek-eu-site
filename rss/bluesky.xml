@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Thu, 21 May 2026 19:55:53 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 20:39:18 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Hvala, a ni potrebe; kandidatur je bilo manj kot razpisanih mest. (So mi pa, žal, šteti...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mmf7cx3e522n</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mmf7cx3e522n</guid>
+      <pubDate>Thu, 21 May 2026 19:57:18 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Hvala, a ni potrebe; kandidatur je bilo manj kot razpisanih mest. (So mi pa, žal, šteti dnevi.)<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mmf7cx3e522n">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Kljub vsemu je bila kandidatura za ŠS FRI verjetno ena boljših s fakultetnimi zadevami ...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mmesequesc2t</link>
@@ -173,14 +181,6 @@ any further action." /><br/><a href="https://bsky.app/profile/oblachek.eu/post/3
       <pubDate>Sat, 16 May 2026 11:56:10 GMT</pubDate>
       <category>quote</category>
       <description><strong>Quote post</strong><br/>Za obvestila o blokiranju je tu @listifications.app, za odsleditelje (?) pa po hitrem preletu stanja ne izgleda, da bi obstajalo kaj aktivno delujočega. Tole je (eksperimentalni in zaenkrat ne povsem preverjeni) poskus dnevnega obveščanja o odslediteljih. @unfollowers.eurosky.social <br/>#ModroNebo<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlxs3ywk722r">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Reply] Hi, I&apos;m not planning on adding this feature, since @listifications.app is already doing...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mlxrmk66hc2r</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mlxrmk66hc2r</guid>
-      <pubDate>Sat, 16 May 2026 11:47:31 GMT</pubDate>
-      <category>reply</category>
-      <description><strong>Reply</strong><br/>Hi, I&apos;m not planning on adding this feature, since @listifications.app is already doing a great job.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlxrmk66hc2r">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
