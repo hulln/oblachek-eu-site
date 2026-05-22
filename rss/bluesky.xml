@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Fri, 22 May 2026 18:07:29 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 18:54:00 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Še en. Srečno in uspešno!</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mmhldaet2k2o</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mmhldaet2k2o</guid>
+      <pubDate>Fri, 22 May 2026 18:37:32 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Še en. Srečno in uspešno!<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mmhldaet2k2o">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>Dobro, da v galeriji hranim ta prečudoviti gif.</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mmhhfnohls2o</link>
@@ -173,14 +181,6 @@ any further action." /><br/><a href="https://bsky.app/profile/oblachek.eu/post/3
       <pubDate>Mon, 18 May 2026 15:30:09 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Aja, ne, mislim trenutnega, je tudi moj prvi. Sicer se pa strinjam, všečen telefon.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mm56yihris2h">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Quote] Ko že misliš, da grše ne gre.</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mm53q3y6d22h</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mm53q3y6d22h</guid>
-      <pubDate>Mon, 18 May 2026 14:31:46 GMT</pubDate>
-      <category>quote</category>
-      <description><strong>Quote post</strong><br/>Ko že misliš, da grše ne gre.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mm53q3y6d22h">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
