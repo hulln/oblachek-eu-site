@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Fri, 22 May 2026 03:45:59 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 05:23:24 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Mogoče nekoliko nejasno izraženo; mandat traja že od oktobra lani (in kmalu se bo zaklj...</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mmg65qfxn22n</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mmg65qfxn22n</guid>
+      <pubDate>Fri, 22 May 2026 05:09:09 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Mogoče nekoliko nejasno izraženo; mandat traja že od oktobra lani (in kmalu se bo zaključil).<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mmg65qfxn22n">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Hvala, a ni potrebe; kandidatur je bilo manj kot razpisanih mest. (So mi pa, žal, šteti...</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mmf7cx3e522n</link>
@@ -173,14 +181,6 @@ any further action." /><br/><a href="https://bsky.app/profile/oblachek.eu/post/3
       <pubDate>Sat, 16 May 2026 20:55:15 GMT</pubDate>
       <category>post</category>
       <description>@bskyrad.io bro what happened :(<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlyq7xzly22k">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Quote] Za obvestila o blokiranju je tu @listifications.app, za odsleditelje (?) pa po hitrem p...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mlxs3ywk722r</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mlxs3ywk722r</guid>
-      <pubDate>Sat, 16 May 2026 11:56:10 GMT</pubDate>
-      <category>quote</category>
-      <description><strong>Quote post</strong><br/>Za obvestila o blokiranju je tu @listifications.app, za odsleditelje (?) pa po hitrem preletu stanja ne izgleda, da bi obstajalo kaj aktivno delujočega. Tole je (eksperimentalni in zaenkrat ne povsem preverjeni) poskus dnevnega obveščanja o odslediteljih. @unfollowers.eurosky.social <br/>#ModroNebo<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mlxs3ywk722r">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
