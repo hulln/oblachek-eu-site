@@ -8,8 +8,16 @@
 📍 Slovenija | Slovenia 🇸🇮🇪🇺🏴‍☠️
 🔗 oblachek.eu
 📡 RSS: urlr.me/EP4yxq</description>
-  <lastBuildDate>Fri, 29 May 2026 05:28:53 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 06:52:29 GMT</lastBuildDate>
   <atom:link href="https://oblachek.eu/rss/bluesky.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reply] Ampak žal smo še zelo, zelo daleč od tega.</title>
+      <link>https://bsky.app/profile/oblachek.eu/post/3mmxulkp4ms2y</link>
+      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mmxulkp4ms2y</guid>
+      <pubDate>Fri, 29 May 2026 06:05:51 GMT</pubDate>
+      <category>reply</category>
+      <description><strong>Reply</strong><br/>Ampak žal smo še zelo, zelo daleč od tega.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mmxulkp4ms2y">View post on Bluesky</a></description>
+    </item>
     <item>
       <title>[Reply] Ups, UNP-ji (učni načrti predmetov).</title>
       <link>https://bsky.app/profile/oblachek.eu/post/3mmwu3b7cak2a</link>
@@ -161,14 +169,6 @@
       <pubDate>Mon, 25 May 2026 08:27:16 GMT</pubDate>
       <category>reply</category>
       <description><strong>Reply</strong><br/>Sicer ja, ampak zoprno je, če imaš dve domači, telefon pa podpira samo eno fizično.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mmo2mqkd5s2v">View post on Bluesky</a></description>
-    </item>
-    <item>
-      <title>[Quote] Ja. Nikakor se ne morem ob vsaki takšni novici vedno znova najprej izogniti misli, kaj ...</title>
-      <link>https://bsky.app/profile/oblachek.eu/post/3mmmf4keauc2t</link>
-      <guid isPermaLink="false">at://did:plc:xfd6rbdcmbesdjrumyxdlipp/app.bsky.feed.post/3mmmf4keauc2t</guid>
-      <pubDate>Sun, 24 May 2026 16:29:44 GMT</pubDate>
-      <category>quote</category>
-      <description><strong>Quote post</strong><br/>Ja. Nikakor se ne morem ob vsaki takšni novici vedno znova najprej izogniti misli, kaj imajo vlaki s tem.<br/><a href="https://bsky.app/profile/oblachek.eu/post/3mmmf4keauc2t">View post on Bluesky</a></description>
     </item>
   </channel>
 </rss>
